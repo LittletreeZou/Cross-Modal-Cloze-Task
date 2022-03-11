@@ -1,0 +1,5 @@
+The brain imaging data is available at: http://www.cs.cmu.edu/~tom/science2008/index.html
+
+Reference: Tom M. Mitchell, Svetlana V. Shinkareva, Andrew Carlson, Kai min Chang, Vicente L. Malave, Robert A. Mason, and Marcel Adam Just. 2008. Predicting human brain activity associated with the meanings of nouns. Science, pages 1191–1195.
+
+
