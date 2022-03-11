@@ -1,0 +1,360 @@
+bear    watch out, that bear will chase you.
+bear    the woodpecker was not afraid of the bear.
+bear    the caribou and the bear smell one another.
+bear    the bear found its next prey in the hare.
+bear    the swan was not bothered by the bear.
+bear    the bear ran from the rattlesnake.
+cat    the cat sat licking its paws. 
+cat    lions belong to the cat family. 
+cat    she had only her cat for companionship. 
+cat    the cat loves being stroked. 
+cat    the cat licked up the milk.
+cat    the rug was covered with cat hairs.
+cow    a cow stood on the tracks. 
+cow    it is milked form a cow at night.
+cow    the cow was eating grass when it began to rain.
+cow    she gave the cow grass and water every day. 
+cow    suddenly the cow kicked up its hind legs. 
+cow    a mature cow has horns.
+dog    the man was able to rescue the dog.
+dog    the shelter worker took care of the dog.
+dog    her dog's temperament matched her own.
+dog    a dog is a great companion.
+dog    the spaniel was a terrible dog.
+dog    the vet didn't want a dog of her own.
+horse    this horse needs firm handling. 
+horse    the horse laid back its ears.
+horse    the horse plunged and reared.
+horse    i saw a girl riding a horse.
+horse    he has again fallen from his horse.
+horse    the winning horse was a rank outsider.
+arm    he refused to release her arm. 
+arm    the pain seared along her arm.
+arm    his arm swept around the room.
+arm    her arm was a mass of bruises.
+arm    he squeezed her arm reassuringly.
+arm    my left arm had gone dead. 
+eye    she was afraid to meet my eye.
+eye    his left eye squints a little.
+eye    i have something in my eye.
+eye    he has very little sight in his right eye. 
+eye    they look like stars to the naked eye. 
+eye    computer screens should be at eye level. 
+foot    she stamped her foot in annoyance.
+foot    his foot stamped down on the accelerator.
+foot    he stuck his foot out and tried to trip me.
+foot    he pulled his foot out of the mud.
+foot    she accidentally stepped on his foot.
+foot    i have something wrong with my foot. 
+hand    her hand was shaking noticeably. 
+hand    his hand fastened on her arm.
+hand    he raised his hand in greeting.
+hand    your hand looks badly burnt.
+hand    she held up her hand stiffly.
+hand    the fabric was painted by hand. 
+leg    she lost a leg in a car crash.
+leg    a cat was rubbing against my leg.
+leg    she broke her leg skiing. 
+leg    she has beautiful legs.
+leg    these jeans are too long in the leg. 
+leg    our dog has a bald patch on its leg.
+apartment    they rent out the apartment in their home.
+apartment    this apartment floor is under renovation.
+apartment    this apartment doesn't have a big kitchen.
+apartment    parts of the apartment are ladder accessible.
+apartment    the long hallway in the apartment is skinny.
+apartment    the apartment has cute little nooks.
+barn    a barn adjoins the farmhouse.
+barn    he strode purposefully toward the barn.
+barn    the rickety barn needs repairing. 
+barn    they usually keep the hay in the barn.
+barn    the barn was full of bales of straw.
+barn    there are mice in the barn.
+church    she plays the organ in church.
+church    the family had gone to church. 
+church    the church was erected in 1582.
+church    the church bells keep me from sleeping. 
+church    the village church dominates the skyline.
+church    their marriage took place in a local church. 
+house    the house was simply furnished.
+house    they have a wonderful house. 
+house    the house is backed by fields.
+house    she keeps the house spotless.
+house    the house was deathly still. 
+house    he went to the wrong house. 
+igloo    spending a night in an igloo is magical. 
+igloo    there was a great noise at the igloo. 
+igloo    she lives in an igloo. 
+igloo    they ended up at the third eskimo's igloo.
+igloo    my father built an igloo all by himself.
+igloo    the popularity of the igloo is beyond doubt. 
+arch    he went under a brick arch.
+arch    the arch once stood alone at the entrance to the castle. 
+arch    marble arch is a famous london landmark.
+arch    they walked together through the arch.
+arch    she passed under the arch leading out of the park.
+arch    the arch can support greater weight than a horizontal beam. 
+chimney    smoke was curling up the chimney.
+chimney    a shower of sparks flew up the chimney. 
+chimney    draw a bird above the chimney.
+chimney    they climbed up to the chimney.
+chimney    the chimney rolls up smoke.
+chimney    our chimney is very tall.
+closet    the closet is in the bedroom. 
+closet    she opened the closet.
+closet    it was in your closet.
+closet    i have a blanket in the closet if you get cold.
+closet    the closet is near the table. 
+closet    many clothes are in the closet. 
+door    there's someone at the door.
+door    he kicked the door hard.
+door    they wrenched the door open.
+door    someone tapped at the door. 
+door    the door closed behind him. 
+door    she headed for the door.
+window    i climbed through the window.
+window    the window is open.
+window    she looked out of the window. 
+window    she sleeps with the window open. 
+window    the window wouldn't fasten. 
+window    the sun slanted through the window.
+coat    i bought a coat in the sales.
+coat    he bought a new coat for me.
+coat    i wondered whose the coat was.
+coat    a button had come off my coat.
+coat    she was wearing a new coat. 
+coat    she put on her coat and went out.
+dress    she was wearing a black dress.
+dress    her dress was a violent pink.
+dress    let me show you my new dress. 
+dress    everyone was in evening dress.
+dress    that dress is too small for you. 
+dress    don't get your dress dirty.
+pants    my yellow pants have worn out.
+pants    i want the pants shorter. 
+pants    i like wearing casual pants.
+pants    girls wear short pants in summer.
+pants    she buys a pair of pants.
+pants    he usually wipes his hands on his pants.
+shirt    my shirt was clammy with sweat.
+shirt    he peeled off his shirt. 
+shirt    he looks handsome in that white shirt.
+shirt    his shirt was spotted with oil. 
+shirt    put on your shirt quickly.
+shirt    the wet shirt clung to his chest.
+skirt    the skirt has a side opening.
+skirt    there's a mark on your skirt. 
+skirt    the coffee went all over my skirt.
+skirt    the long skirt restricted her movements.
+skirt    this skirt matches my blouse. 
+skirt    the skirt looks nice on you. 
+bed    she enjoyed sleeping in her own bed.
+bed    the cot replaced the bed for the night.
+bed    napping in bed can be good for you.
+bed    the toddler crawled onto the bed.
+bed    the bed cushions sagged quickly.
+bed    he took the blanket off of the bed.
+chair    she jumped down off the chair. 
+chair    the chair is broken.
+chair    in the dark i bumped into a chair. 
+chair    he drew his chair nearer the fire. 
+chair    i leaned back in my chair. 
+chair    he collapsed into the nearest chair. 
+desk    he took his feet off the desk.
+desk    the book lay open on his desk.
+desk    the desk looked undisturbed. 
+desk    the desk was covered with papers. 
+desk    that desk takes up too much space. 
+desk    she was sitting at her desk. 
+dresser    there's a dresser in the bedroom.
+dresser    she pulled herself from the bed to the dresser.
+dresser    she braced herself against the dresser. 
+dresser    the dresser is too high for a child.
+dresser    the white dresser fits the room.
+dresser    my mother bought a new dresser for me.
+table    the table is made of glass.
+table    the chandelier hangs right above the table.
+table    he put the candle on the table.
+table    the porcelain is at the center of the table.
+table    the silverware looks beautiful on the table.
+table    the chrome table had a very modern look.
+ant    the ant is eating leaves.
+ant    the ant is carrying a leaf.
+ant    when i was a child, i enjoyed watching ants.
+ant    it was attacked by another species of ant.
+ant    i accidentally stepped on an ant.
+ant    a small ant is searching for food.
+bee    the flower opens to reveal a bee. 
+bee    a bee sting is painful but not necessarily serious.
+bee    a bee flew about in the room.
+bee    each worker bee does its own work.
+bee    he was stung by a bee.
+bee    only one queen bee can live in each hive.
+beetle    the first thing the beetle did was to take him by the finger.
+beetle    the curculio beetle eats the edges of leaves. 
+beetle    this beetle eats mainly the germ of the grain. 
+beetle    she captured a small beetle.
+beetle    healthy trees are better able to fend off bark beetle. 
+beetle    the beetle lay there working its helpless legs.
+butterfly    the butterfly fluttered from flower to flower. 
+butterfly    it is a very pretty butterfly.
+butterfly    the caterpillar will eventually metamorphose into a butterfly.
+butterfly    the butterfly is flying to us.
+butterfly    she said she had never seen a butterfly.
+butterfly    catching one butterfly is not easy. 
+fly    a fly was buzzing against the window.
+fly    there's a dead fly in my coffee.
+fly    he swatted a fly that was annoying him.
+fly    a fly landed on his nose.
+fly    she brushed the fly away. 
+fly    she swiped at him as though he was a fly.
+bottle    we drank a whole bottle each.
+bottle    he drank a whole bottle of wine.
+bottle    this is our last bottle of water. 
+bottle    someone smashed a bottle. 
+bottle    she had drunk half a bottle of whisky. 
+bottle    he gave me a bottle of milk.
+cup    i drank a cup of coffee.
+cup    this coffee cup looks very beautiful.
+cup    he gave me a cup of tea.
+cup    she pushed the cup towards me. 
+cup    this cup has a crack in it. 
+cup    she balanced the cup on her knee. 
+glass    i just drink a glass of water.
+glass    you can use that glass as a vase. 
+glass    she put the glass down carefully. 
+glass    broken glass littered the streets. 
+glass    let me refresh your glass. 
+glass    the glass was half full. 
+knife    he thrust at me with a knife. 
+knife    he held the knife by its blade. 
+knife    this knife needs sharpening.
+knife    the knife sliced his jacket.
+knife    a sharp knife makes a clean cut. 
+knife    the knife gleamed as it caught the light. 
+spoon    he stirred his coffee with a spoon.
+spoon    she feeds the baby with a spoon.
+spoon    i need another spoon.
+spoon    she put her spoon into the pudding. 
+spoon    she put down her spoon. 
+spoon    this is a soup spoon. 
+bell    he heard the school bell ring. 
+bell    there was a ring of the bell. 
+bell    a bell tinkled as the door opened.
+bell    the bell tolled the hour. 
+bell    an alarm bell went off.
+bell    the bell sounded for the end of the class.
+key    he turned the key in the lock.
+key    the key doesn't fit the lock.
+key    he could have taken a spare key.
+key    the key has stuck in the lock. 
+key    i saw you put the key in your pocket.
+key    i forgot my key.
+refrigerator    his refrigerator frequently looked half empty.
+refrigerator    my parents can't even afford a new refrigerator.
+refrigerator    my refrigerator suddenly started kicking up yesterday.
+refrigerator    we have a large refrigerator. 
+refrigerator    dinner is in the refrigerator.
+refrigerator    put this juice in the refrigerator.
+telephone    he snatched up the telephone. 
+telephone    the telephone is by the window.
+telephone    he got up and answered the telephone.
+telephone    the telephone startled him.
+telephone    the telephone wires had been cut. 
+telephone    the telephone system has broken down. 
+watch    my watch is not very accurate.
+watch    she stole a glance at her watch.
+watch    inside the box was a gold watch. 
+watch    my watch keeps going wrong. 
+watch    the watch is still under guarantee.
+watch    he had forgotten to wind his watch. 
+chisel    he used a chisel to chip away at the wall. 
+chisel    he broke away the veneer with a chisel.
+chisel    she used a chisel to prise off the lid. 
+chisel    the little boy doesn't know how to use a chisel.
+chisel    the chisel is made of iron.
+chisel    this chisel has been used for a long time and was rusty.
+hammer    he hit the nail squarely on the head with the hammer. 
+hammer    he used another rock as a hammer to hit the gold-colored lump.
+hammer    he bashed her over the head with a hammer.
+hammer    the judge brought his hammer down on the table.
+hammer    she puts the hammer down on the ground.
+hammer    my father bought a new hammer.
+pliers    i have some pliers in there.
+pliers    i need a pair of pliers.
+pliers    the best method to open it is with pliers. 
+pliers    i got out my pliers and torch and crawled under the car.
+pliers    the alligator bit the pliers out of my hand.
+pliers    he pulled out the pliers. 
+saw    this electric saw can cut through wood very quickly.
+saw    the new saw works very well.
+saw    he searched all over the room and finally found a saw.
+saw    you need to use the electric saw carefully.
+saw    bring the saw to me.
+saw    the saw was stained with blood.
+screwdriver    the man tried to stab him with a screwdriver. 
+screwdriver    she stabbed him in the arm with a screwdriver.
+screwdriver    all you need is a screwdriver.
+screwdriver    please hand me the screwdriver.
+screwdriver    this damages the tip of the screwdriver. 
+screwdriver    this screwdriver is too big.
+carrot    the carrot is his favorite vegetable.
+carrot    he picks up a carrot. 
+carrot    it's eating a carrot.
+carrot    a carrot is one type of root vegetable.
+carrot    he made a snowman with a carrot nose.
+carrot    her carrot cake is divine.
+celery    the celery is fresh and crisp. 
+celery    he refused to eat that celery.
+celery    my mother bought a bunch of celery.
+celery    many people dislike the taste of celery.
+celery    celery is rich in vitamins.
+celery    let's have celery for dinner tonight.
+corn    she pounded the corn kernels. 
+corn    we picked the corn by hand.
+corn    most families here grow corn.
+corn    he raised chickens and corn.
+corn    the corn flour has been ground very fine.
+corn    they had corn fields and potato fields. 
+lettuce    this is a nice head of lettuce. 
+lettuce    lettuce was grown by the ancient romans. 
+lettuce    the salad consisted of a few leaves of lettuce. 
+lettuce    for dinner, i usually eat lettuce wraps. 
+lettuce    lettuce reaches record high.
+lettuce    lettuce and cauliflower help to combat bronchitis.
+tomato    it's similar in size to a tomato. 
+tomato    you can try growing something from a seed, like a tomato. 
+tomato    the tomato hit the wall with a splat. 
+tomato    he made a tomato and cucumber salad. 
+tomato    i'd like a tomato and green pepper pizza.
+tomato    the recipe has a name, such as tomato sauce.
+airplane    the airplane had dual controls. 
+airplane    they developed a solar airplane.
+airplane    she fell out of my airplane.
+airplane    the new airplane flies twice the speed of sound. 
+airplane    we watched the airplane ascend higher and higher. 
+airplane    the invention of the airplane has changed our lives.
+bicycle    the bicycle lay upended in a ditch. 
+bicycle    he got on his bicycle and rode off. 
+bicycle    she had a new bicycle. 
+bicycle    she chained her bicycle to the gate. 
+bicycle    she wheeled her bicycle across the road. 
+bicycle    a bicycle came into sight on the main road.
+car    suddenly the car accelerated. 
+car    we're having our car repaired. 
+car    their car drew alongside ours.
+car    the car skidded and overturned.
+car    the car smashed into a tree. 
+car    a police car roared past. 
+train    i'm leaving on the noon train.
+train    i only just caught the train. 
+train    the train was 40 minutes late. 
+train    the train pulled into a station. 
+train    somewhere a train whistled.
+train    we heard the train coming. 
+truck    they hitched a ride in a truck. 
+truck    i've just loaded my truck up.
+truck    the truck braked to a halt. 
+truck    the truck hit a bump and bounced. 
+truck    he pulled out to overtake a truck. 
+truck    the truck driver was waiting to unload.

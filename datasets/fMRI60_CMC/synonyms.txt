@@ -1,0 +1,60 @@
+bear
+cat
+cow
+dog
+horse
+arm
+eye
+foot
+hand
+leg
+apartment flat
+barn
+church
+house
+igloo iglu
+arch archway
+chimney
+closet wardrobe
+door
+window
+coat
+dress
+pants trousers 
+shirt
+skirt
+bed
+chair
+desk
+dresser
+table
+ant
+bee
+beetle
+butterfly
+fly
+bottle
+cup
+glass
+knife
+spoon
+bell
+key
+refrigerator fridge
+telephone phone
+watch
+chisel
+hammer
+pliers plyers plyer plier
+saw
+screwdriver
+carrot
+celery
+corn
+lettuce
+tomato
+airplane plane aeroplane
+bicycle bike cycle
+car automobile motorcar
+train
+truck motortruck
