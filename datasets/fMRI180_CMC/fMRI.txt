@@ -1,0 +1,3 @@
+The brain imaging data is available at: https://osf.io/crwz7/
+
+Reference: Francisco Pereira, Bin Lou, Brianna Pritchett, Samuel Ritter, Samuel J. Gershman, Nancy Kanwisher, Matthew Botvinick, and Evelina Fedorenko. 2018. Toward a universal decoder of linguistic meaning from brain activation. Nature Communications, 9(1):963–963.
