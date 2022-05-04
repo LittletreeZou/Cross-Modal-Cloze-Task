@@ -1,6 +1,6 @@
 # Cross-Modal Cloze Task
 
-This repository is for ACL 2022 findings paper: **Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding**. fMRI60_CMC and fMRI180_CMC has been released at the file folder `datasets`. 
+We realase the datasets for our ACL-2022 Findings's paper: **Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding**. The fMRI60_CMC and fMRI180_CMC datasets can be found at the file folder `datasets`. 
 
 **Format of data:**
 
@@ -14,6 +14,4 @@ This repository is for ACL 2022 findings paper: **Cross-Modal Cloze Task: A New 
 ```
 python generate_contexts.py --data fMRI180
 ```
-
-
 
