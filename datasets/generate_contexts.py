@@ -1,5 +1,7 @@
 import codecs
 import re
+import os
+import argparse
 
 
 def load_text(data_path, lower=False):
@@ -18,26 +20,22 @@ def load_text(data_path, lower=False):
     return corpus
 
 
-def load_sents(data_flag='nc'):
+def load_sents(data_flag, data_file_path):
     '''
-    load sentences corresponding to the word stimuli
-    "nc" refers to data of Pereira 2018; 'sci' refers to data of Mitchell 2008.
-    '''
-    if data_flag == 'nc':
-        datapath = "/home/sxzou/concept_decoding/NC_data/text/expt1_stim_sents.txt"
-    else:
-        datapath = "/home/sxzou/concept_decoding/Science_data/sentences.txt"
+    Load stimulus word and its corresponding sentences.
 
+    :param data_flag: which fMRI dataset to process, fMRI60 or fMRI180.
+    :param data_file_path: the file directory of `datasets`.
+    :return: (concepts, sents), both of which are list of str
+    '''
+    datapath = os.path.join(data_file_path, data_flag + "_CMC/sentences.txt")
     readfile = codecs.open(datapath, 'r', 'utf-8')
 
-    concepts = []
+    concepts = []   # stimulus words
     sents = []
 
     for line in readfile:
-        if data_flag == 'nc':
-            line1 = line.strip().split('\t')
-        else:
-            line1 = line.strip().split('    ')  # 4个空格
+        line1 = line.strip().split('|')
         assert len(line1) == 2, 'error'
         word = line1[0].strip()
         sent = line1[1].strip()
@@ -49,9 +47,11 @@ def load_sents(data_flag='nc'):
 
 def find_mask_index(concept, split_sent):
     '''
-    使用正则表达式去找concept出现在句子中的位置
+    Use regular expression to find the index of the stimulus word in the sentence.
 
-    Note: re.match() checks for a match only at the beginning of the string
+    :param concept: a stimulus word
+    :param split_sent: a sentence that has been split into word list
+    :return: the index of the stimulus word in the sentences.
     '''
     index = -1
     for i, word in enumerate(split_sent):
@@ -61,13 +61,17 @@ def find_mask_index(concept, split_sent):
     return index
 
 
-  
 def generate_mask_sentence(concepts, sents, mask_token='[MASK]'):
     '''
-    mask the concept word in sentence
+    Mask the concept word in the sentence to generate a context for the word.
+
+    :param concepts: word stimuli, list
+    :param sents: sentences, list
+    :param mask_token: used as a placeholder, it should be the same for the pre-trained model you used.
+    :return: (mask_words, mask_sents), both of which are list of str
     '''
-    mask_words = []
-    mask_sents = []
+    mask_words = []  # store the exact word that is replaced by the mask_token
+    mask_sents = []  # store the masked sentence (context)
 
     for i, sent in enumerate(sents):
         sent1 = sent.split(' ')
@@ -77,15 +81,15 @@ def generate_mask_sentence(concepts, sents, mask_token='[MASK]'):
             mask_w = ''
             mask_s = sent
         else:
-            # 处理有标点符号的情形
+            # to handle the punctuations
             if sent1[index][-1] in [',', '.', '?', '!']:
                 mask_w = sent1[index][:-1]
                 sent1[index] = mask_token + sent1[index][-1]
-            # 处理特殊情况：后面加's
+            # to handle the case where the concept word looks like word's
             elif sent1[index][-2:] == "'s":
                 mask_w = sent1[index][:-2]
                 sent1[index] = mask_token + sent1[index][-2:]
-            # 处理特殊情况：law-imposed
+            # to handle a special word 'law-imposed'
             elif sent1[index] == 'law-imposed':
                 mask_w = 'law'
                 sent1[index] = mask_token + "-imposed"
@@ -95,17 +99,18 @@ def generate_mask_sentence(concepts, sents, mask_token='[MASK]'):
             mask_s = ' '.join(sent1)
         mask_words.append(mask_w)
         mask_sents.append(mask_s)
-
     return mask_words, mask_sents
 
 
 
 if __name__ == '__main__':
 
-    words = load_text('/home/sxzou/concept_decoding/Science_data/word_stimuli.txt')
-    concepts, sents = load_sents(data_flag='sci')
-    mask_words, mask_sents = generate_mask_sentence(concepts, sents, mask_token='[MASK]')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--data', type=str, default='fMRI60', help='fMRI60 or fMRI180')
+    args = parser.parse_args()
 
-
-
-
+    concepts, sents = load_sents(data_flag=args.data, data_file_path='./datasets')
+    _, contexts = generate_mask_sentence(concepts, sents, mask_token='[MASK]')
+    print('Context example: ', contexts[0])
+    
+    
