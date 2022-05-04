@@ -1,1080 +1,1080 @@
-seafood	shrimp is a kind of seafood.
-seafood	she ordered scallops at the seafood restaurant.
-seafood	tempura is one popular way to prepare seafood.
-seafood	he is happy to see flounder in the seafood section.
-seafood	caviar is a gourmet kind of seafood.
-seafood	chowder is made with different kinds of seafood.
-bird	the bird flew around the cage.
-bird	the nest was just big enough for the bird.
-bird	the only bird she can see is the parrot.
-bird	the bird poked its head out of the hatch.
-bird	the bird holds the worm in its beak.
-bird	the bird preened itself for mating.
-beat	the beat of the music was soulful.
-beat	the song had a catchy beat.
-beat	she tapped her foot to the rhythmic beat.
-beat	he thought that the beat had a good vibe.
-beat	people thrashed their heads to the beat.
-beat	she can strum the beat on her guitar.
-vacation	the vacation started with a perfect sunset.
-vacation	she can relax the rest of her vacation.
-vacation	there's nothing like vacation in paradise.
-vacation	the vacation in hawaii was a luxury.
-vacation	the vacation is a hideaway from home.
-vacation	their honeymoon was a vacation in france.
-bar	the bar looked like an ancient tavern.
-bar	cowboys go to saloons instead of bars.
-bar	he learned quickly that bars don't cater.
-bar	that bar was their new favorite venue.
-bar	the popular nightclub has added a bar.
-bar	the bar had an urban feel to it.
-taste	she says the hot chocolate had a rich taste.
-taste	the spicy taste lingered in her mouth.
-taste	the margarita has a zing to its taste.
-taste	her delicate palate reacted strongly to the taste.
-taste	the distinctive taste of the cereal is gross.
-taste	she enjoyed the mousse's aroma and taste.
-useless	useless help desks are frustrating.
-useless	the useless task was just busywork.
-useless	the presentation is useless and irritating.
-useless	the trip was agonizing and quite useless.
-useless	the grueling process is just useless.
-useless	the excruciating demands seemed useless.
-beer	guys tend to like beer more than wine.
-beer	he can grab a bottle of beer from here.
-beer	the bartender served her a cold beer.
-beer	she ordered a margarita after the beer.
-beer	all she wants today is a pint of beer.
-beer	he was thirsty for the beer in the fridge.
-road	the bus blocked the entire road.
-road	the tunnel cut through the main road.
-road	the sidewalk runs alongside the road.
-road	the road pileup didn't clear for hours.
-road	surprisingly, the main road only has one lane.
-road	the tollbooth was at the end of the road.
-dog	the man was able to rescue the dog.
-dog	the shelter worker took care of the dog.
-dog	her dog's temperament matched her own.
-dog	a dog is a great companion.
-dog	the spaniel was a terrible dog.
-dog	the vet didn't want a dog of her own.
-collection	she loves her collection of antiques.
-collection	he hoarded a collection of autographs.
-collection	her souvenir collection began in childhood.
-collection	he stole a stamp to complete his collection.
-collection	the item isn't worth adding to the collection.
-collection	she assembled a collection of auction items.
-dedication	his dedication shows how passionate he is.
-dedication	his dedication makes him so successful.
-dedication	her dedication spurred her pursuit.
-dedication	her dedication mirrored her commitment.
-dedication	his dedication to her shows how faithful he is.
-dedication	her loyal dedication is indisputable.
-great	the great experience became irresistible.
-great	you are great but aim to be terrific.
-great	the great waiter took care of his guests.
-great	the spectacular view made the room so great.
-great	the food is great and the service exceptional.
-great	it is amazing how great of a runner she is.
-illness	the illness spread across the country.
-illness	his illness turned out to be the flu.
-illness	the penicillin won't cure her illness.
-illness	she contracted a stomach illness from the food.
-illness	typhoid is an illness that affected many people.
-illness	he isn't susceptible to the illness.
-prison	another word for jail is prison.
-prison	he got out of prison early on parole.
-prison	no longer a juvenile, he was sent to prison.
-prison	she got probation and didn't go to prison.
-prison	sobriety is enforced in the prison.
-prison	the interrogation took place in prison.
-protection	she found security in his protection.
-protection	privacy means protection around here.
-protection	he avoids calling protection services.
-protection	the shield provided little protection.
-protection	she feels safe with the given protection.
-protection	he finds protection inside of the house.
-crazy	his nightmare drove him crazy.
-crazy	the crazy taxi driver was freaky.
-crazy	the crazy animal looked bloodthirsty.
-crazy	the crazy demon was just grotesque.
-crazy	the ritual felt crazy and animalistic.
-crazy	this crazy dystopia was his new life.
-silly	the unrealistic proposal was just silly.
-silly	the silly rumor was just absurd.
-silly	the unsubstantiated claims are just silly.
-silly	the play was ridiculous and silly.
-silly	the overblown statistics sounded silly.
-silly	the news story was silly and unfounded.
-bed	she enjoyed sleeping in her own bed.
-bed	the cot replaced the bed for the night.
-bed	napping in bed can be good for you.
-bed	the toddler crawled onto the bed.
-bed	the bed cushions sagged quickly.
-bed	he took the blanket off of the bed.
-challenge	this problem proved to be a challenge.
-challenge	the hardship is a challenge she will defeat.
-challenge	a challenge is an obstacle to overcome.
-challenge	the challenge's burden scared her.
-challenge	this challenge is critical for the team.
-challenge	passing the challenge is a formidable feat.
-sign	the sign marked the entrance.
-sign	the graffiti was a sign of his presence.
-sign	this was a telltale sign of love.
-sign	the sign was inscribed with rules.
-sign	the sign fell from the roof with a swoosh.
-sign	the sign hung from the billboard.
-applause	the cheering drowned out the applause.
-applause	the ruckus of the applause hurt her ears.
-applause	the commotion of applause is infectious.
-applause	her applause was inhibited.
-applause	he caught an earful of applause as he left.
-applause	the rowdy crowd burst into applause.
-broken	the broken mirror went missing.
-broken	the broken leg made the table unstable.
-broken	she dangerously teeters on the broken chair.
-broken	the disorganized room is full of broken things.
-broken	the computer was hopelessly broken.
-broken	the door hung crooked after being broken.
-garbage	the dumpster was full of garbage.
-garbage	he threw the rotten apple into the garbage.
-garbage	trash is another word for garbage.
-garbage	the garbage began to reek in the sun.
-garbage	the landfill is brimming with garbage.
-garbage	the sewer bubbled over into the garbage.
-poor	the young people were poor.
-poor	the poor man felt powerless.
-poor	the poor orphan wished for his parents.
-poor	the poor woman is tormented by her faults.
-poor	the poor girl became dependent again.
-poor	the unlucky man quickly became poor.
-bag	she wants to pack a bag for the day trip.
-bag	he put is wallet in her bag.
-bag	the leather bag fell from the shelf.
-bag	he had a bag and a laptop to put in it.
-bag	the trusty satchel was her favorite bag.
-bag	the umbrella was too big for her bag.
-show	the show was still on television.
-show	the show has one more episode next week.
-show	he thinks the show is a bit melodramatic.
-show	the humor of the show is slapstick comedy.
-show	she wants to reenact the storyline of the show.
-show	this show is older than that sitcom.
-food	she eats junk food on the weekends.
-food	he felt fat after eating that much food.
-food	the cat food today consisted of kibble.
-food	her food has a lot of nutritional value.
-food	he was devouring his food as she spoke.
-food	the steakhouse serves vegetarian food.
-marriage	she got pregnant before her marriage.
-marriage	dating sometimes leads to marriage.
-marriage	girls fantasize about marriage after puberty.
-marriage	she wants marriage, he wants to breakup.
-marriage	the newlywed talks about marriage for hours.
-marriage	you should get some marriage advice.
-kindness	he had respect for her kindness.
-kindness	you need kindness and loyalty in a friend.
-kindness	his manliness and kindness are irresistible.
-kindness	her meekness outweighed her kindness.
-kindness	the direct nature of his kindness is gentlemanly.
-kindness	the school teaches piety and kindness.
-cook	defrost the fish before you cook it.
-cook	if she wants to cook, she needs a fridge.
-cook	he thought a pan was all he needed to cook.
-cook	the steaming pot holds all she can cook.
-cook	he thought you had to cook the dough.
-cook	warm up the stove to cook the stew.
-dance	just shuffle through the dance steps.
-dance	she can dance in the ballroom course.
-dance	juggling dance and gymnastics was hard.
-dance	irish folk dance requires fast footwork.
-dance	he is found dancing the dance all the time.
-dance	walking the dance helped him learn it.
-magic	the spell proved magic exists.
-magic	he doesn't believe in magic or witchcraft.
-magic	they psychic performed magic tricks.
-magic	tarot cards are make-believe magic.
-magic	the mythical story made magic seem real.
-magic	the magician cast his magic on her.
-invisible	the ghost was invisible.
-invisible	the girl felt insignificant and invisible.
-invisible	the web is almost invisible to the naked eye.
-invisible	the wind is invisible and odorless.
-invisible	it's inexplicable how the boy became invisible.
-invisible	she was virtually invisible in the dark.
-charming	the ambitious salesman was quite charming.
-charming	her loveable laugh was charming.
-charming	his charming smile was beguiling.
-charming	the speaker's charismatic nature is charming.
-charming	the toddler's mischievousness toddler is charming.
-charming	the charming proposal was gutsy.
-emotionally	he felt emotionally and mentally secure.
-emotionally	morally and emotionally, it is difficult.
-emotionally	objectively, he gets her emotionally.
-emotionally	an unsound choice destroyed her emotionally.
-emotionally	the family solidly pumps him up emotionally.
-emotionally	the kid is successful and emotionally in tune.
-cockroach	the pest control killed the cockroach.
-cockroach	the cockroach fed off the mold.
-cockroach	the cockroach ate the ant.
-cockroach	the grasshopper and the cockroach are friends.
-cockroach	the cockroach infestation overwhelmed her.
-cockroach	the pesky cockroach managed to survive.
-sew	you need an eye for detail to sew.
-sew	the pattern was too hard to sew by hand.
-sew	he is quite crafty and likes to sew.
-sew	she forgot to sew the last stitch.
-sew	he chose woodcarving over learning to sew.
-sew	the artisan can sew the most beautiful gowns.
-sad	the reminder of her sad past hurt her.
-sad	the future could be happy or sad for her.
-sad	the perplexing situation made him sad.
-sad	it was upsetting how sad she was.
-sad	the depressing movie made everyone sad.
-sad	the moment was noteworthy yet sad.
-star	the star looked like an incoming meteor.
-star	the star is light years away from earth.
-star	her star sign is gemini.
-star	the microcosmic star still shines bright.
-star	the spaceflight uncovered a new star.
-star	she likes that capricorn is her star sign.
-angry	he was both angry and frightened.
-angry	he panicked at how angry his boss was.
-angry	she's angry because i offended her.
-angry	i am displeased with how angry he was.
-angry	dissatisfied and angry, he began to sulk.
-angry	flabbergasted at her results, she got angry.
-experiment	this experiment aims to study human behavior.
-experiment	the experiment is diagnostic of psychosis.
-experiment	the experiment asks for a blood sample.
-experiment	debrief the participants in the experiment.
-experiment	a recent experiment led to a new observation.
-experiment	the experiment is built on initial expectations.
-mountain	the trail ends halfway up the mountain.
-mountain	i wanted to ski down the mountain faster.
-mountain	the glacier is at the mountain top.
-mountain	a snowboarder got stuck on the mountain.
-mountain	the mountain had a beautiful summit.
-mountain	the mountain has a steep slope.
-pig	the pig and cattle do not get along well.
-pig	the horse shared its food with the pig.
-pig	the whinny frightened the pig.
-pig	the pig got stuck in the lasso.
-pig	the pig was sprawled in the hay.
-pig	the bigger pig was a stud.
-nation	the revolution restructured the nation.
-nation	colonialism shaped the nation in no time.
-nation	impoverishment left the nation crumbling.
-nation	migration changed the population of the nation.
-nation	globalization impacts some nations more.
-nation	the rebellion rocked the small nation.
-shape	a two dimensional shape is flat.
-shape	a circle is an elementary shape.
-shape	the pyramid is a three-dimensional shape.
-shape	her body has the shape of an hourglass.
-shape	a typical cloud's shape is irregular.
-shape	the set dimensions created an odd shape.
-burn	the fire would burn slowly.
-burn	the cigarette could burn her skin.
-burn	a blowtorch will burn all night.
-burn	the inflammable jacket will never burn.
-burn	the heat of the stove can burn you.
-burn	the flashbulb may burn the curtain.
-solution	the best solution has the least loopholes.
-solution	the perfect solution isn't always simple.
-solution	a discrete ending to the affair is his solution.
-solution	the solution is straightforward and effective.
-solution	find a viable solution for global warming.
-solution	her solution is affordable for all parties.
-big	he wants to be a big fish in a small pond.
-big	while he isn't obese, he is quite big.
-big	cutting down the big tree is substantial.
-big	his big feet are disproportionate.
-big	there big selection is just a hodgepodge.
-big	a bucketful of big strawberries awaits them.
-hair	his blond hair looks good with blue.
-hair	his moustache hair is a strange color.
-hair	her hair is droopy in the heat.
-hair	the model's hair was voluminous.
-hair	don't straighten your hair if you want to keep it.
-hair	the cat's whiskers felt like human hair.
-investigation	the criminal is under investigation again.
-investigation	an investigation can produce a charge.
-investigation	the investigation is led with suspicion.
-investigation	the investigation was unlawful.
-investigation	the burglary didn't lead to an investigation.
-investigation	the investigation uncovered a scandal.
-tried	he tried again later.
-tried	soon afterwards she tried to call him.
-tried	he tried to move the date to later.
-tried	he tried to close the door forcibly.
-tried	she hurriedly tried to run after the cat.
-tried	he abandoned the endeavor when she tried.
-dig	he can dig and discover all he wants.
-dig	the erosion made it difficult to dig.
-dig	he didn't want to dig in the excavation.
-dig	they want to dig for another fossil.
-dig	you can dig a ditch in a few hours.
-dig	he didn't want to dig underground.
-gun	a gun is a kind of weapon.
-gun	firing a gun can kill someone.
-gun	the gun had one bullet left.
-gun	the shooter threw away his gun.
-gun	he aimed the gun at the target.
-gun	the blast from the gun was loud.
-argument	the new evidence helped his argument.
-argument	i will confirm the more valid argument.
-argument	the first argument has a better explanation.
-argument	this argument has no conclusion.
-argument	the statement supports the other argument.
-argument	there's no truth to this argument.
-business	banking and business make no sense to me.
-business	the company will improve its business sector.
-business	he wants to invest in a better business.
-business	her business needed to take out a loan.
-business	the business will expand its physical property.
-business	this new business venture will make her rich.
-fish	he wanted to see the fish in the ocean.
-fish	he plans to find sharks and other fish.
-fish	he wants more fish after catching the carp.
-fish	the gator eats fish like trout.
-fish	the divers weren't there for the fish.
-fish	you might see some fish when you surf.
-wash	to make the counter sterile, wash it.
-wash	the dishwasher can wash all the dishes.
-wash	he likes to wash himself with bar soap.
-wash	she felt clean after she could wash herself.
-wash	you have to wash your laundry beforehand.
-wash	the maid was asked to wash the floor.
-science	the facility is used for science research.
-science	the student studied many kinds of science.
-science	this applied science is very different.
-science	his dissertation is in material sciences.
-science	economics is a kind of social science.
-science	the article is in a science journal.
-body	the man had a very athletic body.
-body	her body was very skinny.
-body	she felt like her body was frumpy.
-body	the body of the dress is shapeless.
-body	the midsection of his body is well trained.
-body	the model's body is unimposing in reality.
-bear	watch out, that bear will chase you.
-bear	the woodpecker was not afraid of the bear.
-bear	the caribou and the bear smell one another.
-bear	the bear found its next prey in the hare.
-bear	the swan was not bothered by the bear.
-bear	the bear ran from the rattlesnake.
-ball	he hit the ball out of the field.
-ball	she can't pass the ball for the life of her.
-ball	she could dunk the ball like a pro.
-ball	getting a puck can be easier than a ball.
-ball	the ball bounced off the backboard.
-ball	he gave the ball a quick jab.
-economy	the boom gave the economy a big boost.
-economy	the economy spiked unexpectedly.
-economy	the economy was in a slump.
-economy	the economy didn't predict the carpool demand.
-economy	unemployment still affects the economy.
-economy	the current economy is good for graduates.
-invention	the invention will comprise his integrity.
-invention	the invention involves an unexpected element.
-invention	the semiconductor was a crucial invention.
-invention	a push of a button rotated the invention.
-invention	the invention is schematically drawn.
-invention	the new invention has a reflective surface.
-dessert	ice cream is her favorite dessert.
-dessert	candy is a good choice for dessert.
-dessert	the dessert at the dinner was fruitcake.
-dessert	in her mind, yogurt doesn't replace dessert.
-dessert	the jelly sandwich is practically dessert.
-dessert	the filling of the dessert was marvelous.
-weather	the cold weather almost ruined the trip.
-weather	summer weather brightens everyone's mood.
-weather	the weather in autumn is bearable.
-weather	the weather report didn't predict the blizzard.
-weather	typical summer weather is a monsoon.
-weather	the balmy weather is good for his skin.
-king	the king is the head of the royal family.
-king	the king was wealthy beyond belief.
-king	this king does not wear a crown.
-king	a king and an emperor had similar roles.
-king	the king is a ruler of his land.
-king	the king is not a dictator.
-spoke	when she spoke, she stated the truth.
-spoke	she candidly spoke about her experiences.
-spoke	he spoke pessimistically over coffee.
-spoke	he spoke conversationally without listening.
-spoke	the child spoke engagingly in her presentation.
-spoke	he tellingly spoke about the situation.
-sugar	the recipe called for a cup of sugar.
-sugar	plain sugar is the only kind he uses.
-sugar	sugar and butter are his two big cravings.
-sugar	unrefined sugar has a grittier taste.
-sugar	the tapioca is soaked in sugar.
-sugar	powdered sugar can be very messy.
-jungle	the monkey lives in the jungle.
-jungle	the jungle appears giant from every angle.
-jungle	ferocious animals abound in the jungle.
-jungle	the gazelle grazed outside of the jungle.
-jungle	the lion does not live in the jungle.
-jungle	the jungle houses a new species of frog.
-noise	i could hear some noise last night.
-noise	the noise he heard was of crying.
-noise	the child's whispering made some noise.
-noise	the scariest noise ever was the rumble.
-noise	she suppressed her squeal to not make noise.
-noise	the noise was a low-pitched growl.
-lady	the queen was a classy lady.
-lady	the princess is a newly married young lady.
-lady	the weird lady needed a serious makeover.
-lady	the debutante was presented as a lady.
-lady	the lady has a keen suitor.
-lady	the lady was a darling of society.
-ability	his ability outshone his genius.
-ability	her ability and knack for it got her here.
-ability	his ability and assertiveness are attractive.
-ability	he has the ability to cultivate creativity.
-ability	forethought is an important ability.
-ability	his unwavering ability is unmatched.
-sell	someone will buy the car if you sell it.
-sell	she will sell it for cheap.
-sell	the high supply changes what you sell it for.
-sell	his hobby is to buy and sell comic books.
-sell	the drugstore sells prescription drugs.
-sell	i sell secondhand clothes for a living.
-attitude	she has a negative attitude.
-attitude	his selfish attitude won't get him far.
-attitude	generally, her attitude is condescending.
-attitude	he will work on his domineering attitude.
-attitude	his humorless attitude is stereotypical.
-attitude	he has a nonchalant attitude about it.
-soul	the soul and spirit are closely related.
-soul	the goodness of his soul makes him glow.
-soul	the fact that he has a soul astounds him.
-soul	she hopes her soul will live on in eternity.
-soul	her soul wished for something eternal.
-soul	his discovery of his soul was a blessing.
-charity	this group often volunteers for charity.
-charity	the organization has a new devotion to charity.
-charity	the charity is improving its allocations.
-charity	the charity event doubled the funding.
-charity	the charity is a resource for these families.
-charity	i encourage you to participate in the charity.
-event	everyone was so happy at the event.
-event	the event is a celebration of his life.
-event	the tenth reunion was a spectacular event.
-event	the housewarming event is heavily attended.
-event	the impromptu event was special.
-event	the headmaster's luncheon is a monthly event.
-driver	the driver had a duty to take her home.
-driver	the driver can't lift the box out of the trunk.
-driver	the bulldozer needed a better driver.
-driver	the taxicab driver is tired of them.
-driver	the actress needed to hire a new driver.
-driver	the driver hates loading in at the airport.
-weak	she felt crummy and weak after the class.
-weak	the weak competition left her feeling mediocre.
-weak	he saw himself as weak and unattractive.
-weak	the poorly managed project has a weak foundation.
-weak	the dismal building looks weak in the wind.
-weak	his weak pitch is amateurish.
-plant	the plant was growing fast by springtime.
-plant	the artificial plant looked almost real.
-plant	the leafy plant looked better indoors.
-plant	the windowsill had acquired a new plant.
-plant	the garden could use a new plant.
-plant	he watered the plant after the reminder.
-willingly	a happy kid, he willingly smiled.
-willingly	he incessantly complains, we willingly nod.
-willingly	he willingly and earnestly commits the crime.
-willingly	she openly and willingly answered the questions.
-willingly	she is fiercely and willingly independent.
-willingly	she consistently laughs willingly when he does.
-professional	the worker is a veteran professional.
-professional	the seamstress was a true professional.
-professional	the skilled professional maneuvers well.
-professional	the beekeeper, always a professional, stayed calm.
-professional	the lumberyard needs a professional.
-professional	the technician needs another professional's opinion.
-texture	the table's rough texture surprised him.
-texture	the weird-looking cake has a yucky texture.
-texture	the jellylike texture of the milk is bad.
-texture	the couch cushion had a plushy texture.
-texture	his skin had become a leathery texture.
-texture	the floor's sticky texture is disgusting.
-successful	the successful actress is extremely famous.
-successful	the successful scientist exerts his influence.
-successful	the successful actor wants more fame.
-successful	her successful career made her legendary.
-successful	that powerhouse of a woman is so successful.
-successful	he had been successful in the sixties.
-feeling	finals left her feeling afraid for her grade.
-feeling	while he is worried, she is feeling fine.
-feeling	the baby was feeling fussy all day.
-feeling	the cat is feeling grumpy and prone to scratch.
-feeling	his temperamental moods left her feeling sad.
-feeling	she's feeling weary of his skittish behavior.
-dressing	the thicker dressing has egg in it.
-dressing	garlic made the dressing inedible.
-dressing	the mozzarella has an oily dressing.
-dressing	a delicious dressing will be the garnish.
-dressing	the dressing gave the marmalade a sour twist.
-dressing	sauerkraut is sour enough without dressing.
-carefully	she carefully handled the roses.
-carefully	she carefully and efficiently did the job.
-carefully	he explained it creatively and carefully.
-carefully	the food is neatly and carefully arranged.
-carefully	it is carefully and flawlessly constructed.
-carefully	she carefully and cleverly constructed the outcome.
-doctor	the hospital wanted to hire a new doctor.
-doctor	a brilliant doctor performed the surgery.
-doctor	the doctor doesn't deal with patient trauma.
-doctor	you can't be an occupational doctor.
-doctor	he will consult his friend before his doctor.
-doctor	the physician prefers being called a doctor.
-time	he has a lot of time before the event.
-time	the days go by quicker with time.
-time	they will pick a time for the meeting.
-time	he missed the time of the deadline.
-time	write the time into a calendar space.
-time	tomorrow is a better time for her.
-medication	the medication has strange effects on her.
-medication	her combination of medication wasn't good.
-medication	the medication acts as an antidote.
-medication	the formulation of the medication is new.
-medication	she took her old prescription medication instead.
-medication	this medication is essential to his well-being.
-pleasure	people have sex for pleasure.
-pleasure	people get pleasure from masturbation.
-pleasure	forced pleasure is an oxymoron.
-pleasure	she fantasizes about the pleasure of his touches.
-pleasure	he was gay and got pleasure from him.
-pleasure	sexual pleasure can be a taboo topic.
-philosophy	philosophy provides many perspectives.
-philosophy	existentialism is a topic of philosophy.
-philosophy	spirituality and philosophy aren't the same.
-philosophy	the paradigm taught in philosophy confused her.
-philosophy	materialism is a discussion in philosophy.
-philosophy	she loves philosophy yet remains agnostic.
-deliberately	she deliberately and wrongfully hurt him.
-deliberately	he ruthlessly and deliberately ignores her.
-deliberately	she deliberately fell as she inadvertently slipped.
-deliberately	not deliberately, he arbitrarily asked her out.
-deliberately	the decision was deliberately and unjustly made.
-deliberately	he foolishly accepted the offer deliberately.
-deceive	to lie is to deceive.
-deceive	he's devious enough to deceive her.
-deceive	the ploy was to deceive the old lady slowly.
-deceive	the plan is to deceive and bribe him quickly.
-deceive	the operative was meant to deceive him.
-deceive	her motive is to deceive his friend.
-tool	he needed any tool other than a saw.
-tool	the machine seems like an excessive tool.
-tool	a stapler is the most useful office tool.
-tool	the switchblade can be a dangerous tool.
-tool	the tool shop advertised the shears.
-tool	the best tool for crushing is right here.
-camera	the best camera looks unremarkable.
-camera	the camera captures a lot of colors.
-camera	the camera shutter broke when it fell.
-camera	the camera focus causes low quality photos.
-camera	the camera display had many menu options.
-camera	the camera reflex is too slow.
-art	the poetry workshop was a work of art.
-art	the school has a strong tradition of art.
-art	the art exhibition left many breathless.
-art	the contemporary art left much to be desired.
-art	medieval art is not up her alley.
-art	the irony of the piece is pure art.
-construction	construction slowed down at the last wall.
-construction	plastering is the next step in construction.
-construction	the flooring began the construction process.
-construction	the remodeling takes two years of construction.
-construction	the homeowner hated the construction.
-construction	the construction is true workmanship.
-unaware	she is unaware of how oblivious he is.
-unaware	she was unaware and unashamed of her status.
-unaware	her words are unprejudiced yet unaware.
-unaware	he is inarticulate and unaware of this issue.
-unaware	he's unaware of how uninterested she is.
-unaware	he's unaware and unequipped for this.
-disturb	his insult will disturb her deeply.
-disturb	his affect will begin to disturb me soon.
-disturb	he can disturb and aggravate anyone.
-disturb	conspire as much as you can to disturb her.
-disturb	restrain him so he can't disturb me.
-disturb	do not disturb or jeopardize your chance.
-emotion	his shame is his least controlled emotion.
-emotion	sorrow is his dominating emotion nowadays.
-emotion	indignation was the emotion she could identify.
-emotion	betrayal isn't an emotion you can trigger.
-emotion	she felt an emotion she knew to be embarrassment.
-emotion	she has a desire to feel overwhelming emotion.
-device	the device has a finicky antenna.
-device	the device is wired very simply.
-device	she had to coax the device to start it.
-device	the switch on the device popped off.
-device	the device was disconnected from power.
-device	the transistor was built into the device.
-suspect	the suspect was dead before they got there.
-suspect	the police still don't have a prime suspect.
-suspect	the suspect attempted to run.
-suspect	the suspect committed suicide in prison.
-suspect	the real kidnapper isn't a suspect in the case.
-suspect	the suspect's motive was senseless.
-play	he wanted to play the game, too.
-play	you can play too if you play softball.
-play	he gets to play golf at his meetings.
-play	play volleyball more often for good legs.
-play	sparring is his way to play with you.
-play	the competition forces you to play well.
-smart	the informed candidate has smart responses.
-smart	he seems smart and sincere.
-smart	she is fearless and very smart.
-smart	she genuinely is smart but doesn't work hard.
-smart	the fifth grader is smart and resourceful.
-smart	while she's too trusting, she's smart.
-movie	this story is left out of the movie.
-movie	the character doesn't develop in the movie.
-movie	the movie premiere had a red carpet.
-movie	this movie is one adventure after the other.
-movie	turn on the t.v. to watch the movie.
-movie	a movie can have many sequels.
-movement	the movement was revolutionary.
-movement	this is a movement against communism.
-movement	the movement was oppressive.
-movement	the movement is based on utopian ideals.
-movement	many in the movement have a scary mindset.
-movement	radical people took part in the movement.
-electron	the electron moves in a wave.
-electron	an electron is a miniscule particle.
-electron	an electron impacts the substance's equilibrium.
-electron	he calculated the wavelength of an electron.
-electron	use planck's constant for the mass of an electron.
-electron	find the thermal energy of an electron.
-student	the student was in class when his aunt called.
-student	every student receives a merit scholarship.
-student	the faculty to student ratio is high this year.
-student	the student reread her notes before the course.
-student	this past term zipped by for the student.
-student	only one student in the class is bilingual.
-delivery	the website offered free delivery.
-delivery	the delivery date was unclear.
-delivery	the form of delivery was up to him.
-delivery	she wants to intercept the delivery.
-delivery	he wanted confirmation of the delivery.
-delivery	she requested express delivery to save time.
-trial	the case finally went to trial.
-trial	the lawyer mediated before the trial.
-trial	a decision will be made during the trial.
-trial	the defendant in the trial got nervous.
-trial	the juror was forced to be in the trial.
-trial	the trial is a huge a chance for the attorney.
-laugh	she tried not to laugh and had to gasp.
-laugh	at comedy clubs people both laugh and clap.
-laugh	when i laugh i sometimes sneeze.
-laugh	a giggle is the most she will ever laugh.
-laugh	she tends to sigh whenever i laugh.
-laugh	he spit out his water when he had to laugh.
-usable	the writing is usable but barely publishable.
-usable	the design is usable and reproducible.
-usable	the distinguishable product isn't usable.
-usable	the microwave is recognizably usable.
-usable	it will be marketable once it is universally usable.
-usable	the usable parts are all salvageable.
-apartment	they rent out the apartment in their home.
-apartment	this apartment floor is under renovation.
-apartment	this apartment doesn't have a big kitchen.
-apartment	parts of the apartment are ladder accessible.
-apartment	the long hallway in the apartment is skinny.
-apartment	the apartment has cute little nooks.
-building	the building used to be a theater.
-building	the library building is pretty old.
-building	the building is a mansion for themselves.
-building	there's a mousetrap in the building entrance.
-building	the skyscraper is the city's newest building.
-building	the mosque is the lowest building here.
-dangerous	the punishment was dangerous and cruel.
-dangerous	climbing that dangerous bridge is boneheaded.
-dangerous	aggravating the president is unpatriotic and dangerous.
-dangerous	it's unwise and dangerous to take it on.
-dangerous	the dangerous monster smelled atrociously.
-dangerous	these dangerous conditions are unacceptable.
-gold	i want a gold watch for my thirtieth.
-gold	the yellow gold shines brightly in the sun.
-gold	he eventually chose the gold ring.
-gold	the horseshoe has pink and gold accents.
-gold	the glittering gold is breathtaking.
-gold	the paperweight was made of gold.
-typical	it was typical for him to rely on her.
-typical	it is typical for him to seem peculiar.
-typical	it is typical for her to include him.
-typical	she assumed that this weather is typical.
-typical	he prefers the typical and conventional.
-typical	she's accustomed to a more typical interaction.
-law	the law would act to her benefit.
-law	he will enforce the law if she breaks it.
-law	the applicability of the law is murky.
-law	house arrest is a law-imposed restriction.
-law	a new law doesn't work retroactively.
-law	all i want is to overturn that law.
-skin	the skin on her face turns red in the sun.
-skin	shaving your skin makes it smoother.
-skin	her skin is prone to a pimple or two.
-skin	tanning your skin artificially causes cancer.
-skin	the fragrance of his skin was delightful.
-skin	a vampire's skin can shimmer in the sun.
-music	this song is like her favorite kind of music.
-music	the orchestra plays beautiful music.
-music	i can't improvise music, unfortunately.
-music	the performer forgot his sheet music.
-music	karaoke is not the place for good music.
-music	elevator music is usually instrumental.
-hurting	her nose is still hurting after the fall.
-hurting	his tooth was hurting after practice.
-hurting	hurting her hip was the worst outcome.
-hurting	the child's bony bottom is hurting her lap.
-hurting	the prosthetic arm was hurting her.
-hurting	her pelvis was hurting tremendously.
-left	his remains were left on the battlefield.
-left	the child was thankfully left unharmed.
-left	the turkey was left from november.
-left	she was left undecided after hearing him out.
-left	he was left feeling unnoticed.
-left	his question was left unanswered.
-war	the army was willing to lose the war.
-war	the camp is not safe from the war.
-war	the soldier was sent to war.
-war	he did not want to know of any war casualty.
-war	you can rebel against a war.
-war	the battlefield of the war grew quickly.
-personality	his personality changes with his stress.
-personality	his personality is just compulsive.
-personality	her subconscious impacted her personality.
-personality	he has borderline personality disorder.
-personality	his personality brought down her mood.
-personality	that overt trait is a part of her personality.
-impress	you impress the unsuspecting countess.
-impress	don't terrify her but impress her.
-impress	misdirect his attention to impress him.
-impress	titillate his interests to impress him.
-impress	try to impress or astonish him!
-impress	you will mesmerize and impress your audience.
-job	for her job she works as a cashier.
-job	the coordinator's job is to organize.
-job	recruitment season is a time to get a job.
-job	the job position recently closed.
-job	the manager wanted to give up his job.
-job	this month the job is under supervision.
-read	i can't read that whole book.
-read	she read the information online.
-read	the title was too long to read.
-read	half of the literature she reads is medieval.
-read	he didn't read up on any of the relevant topics.
-read	he read the documentation of the case.
-election	the election took place at the meeting.
-election	the council has an election next spring.
-election	the candidate was up for election.
-election	the poll was swarmed for the election.
-election	the nomination for election was an honor.
-election	the councilman will stay for the election.
-stupid	that guy is so stupid and such a fool.
-stupid	the stupid secretary is just incompetent.
-stupid	he said a bunch of stupid baloney.
-stupid	good riddance to that stupid project!
-stupid	the stupid lowlife walked right out.
-stupid	she calls him a jackass, i think he's stupid.
-sound	the sound of her voice will resonate.
-sound	the microphone wasn't producing any sound.
-sound	the speakerphone has a great sound quality.
-sound	that sound came from the keyboard.
-sound	his sound was on mute.
-sound	she's broadcasting the sound across the field.
-help	someone had to help her replace the engine.
-help	you can't recover without a doctor to help you.
-help	stimulate the area to help it wake up.
-help	please clarify how i can help.
-help	you will stabilize if you let him help you.
-help	reinforce the idea that help is good.
-blood	she was bleeding and lost a lot of blood.
-blood	the blood circulation in her legs is bad.
-blood	blood began to fill the wound.
-blood	blood spurted out of the rupture.
-blood	blood flows through the major artery.
-blood	blood looks blue through our skin.
-wear	she wanted to wear a dress tonight.
-wear	when you wear silk you have to be careful.
-wear	i want to wear a handkerchief tonight.
-wear	i can't wear this unbuttoned to meet his parents.
-wear	i'll scream if you wear bloomers again.
-wear	i like to wear sheath-like material.
-picture	the picture was sketched on paper.
-picture	he will scribble a picture for you.
-picture	printing a picture is harder than it seems.
-picture	draw the picture in ink.
-picture	picture is another word for a photograph.
-picture	the letter contained a picture.
-flow	hot air would flow out from the heater.
-flow	the water flow reminds him to pay his rent.
-flow	the leak disrupted the flow.
-flow	the spout has a shape that inhibits flow.
-flow	a liter of water will flow out of the canister.
-flow	the turbine relies on a steady flow.
-mathematical	it's a random mathematical expression to me.
-mathematical	calculus is a type of mathematical study.
-mathematical	the mathematical simulation made the point.
-mathematical	the course has a mathematical classification.
-mathematical	mathematical formulas use arbitrary variables.
-mathematical	these generalizations are mathematical in nature.
-brain	the human brain still amazes us today.
-brain	the brain is made up of cells.
-brain	the brain has no nerve endings.
-brain	a neuron is the fundamental unit of the brain.
-brain	neuroscientists research the brain functions.
-brain	the oldest brain is the cerebellum.
-land	this piece of land borders two countries.
-land	the island consists of uninhabitable land.
-land	a fence marks the border of his land.
-land	this land is his refuge.
-land	in a faraway land, people live differently.
-land	a swamp shouldn't be classified as land.
-damage	the accident left some serious damage.
-damage	the snow's impact required damage control.
-damage	the possibility of damage made her nervous.
-damage	the storm caused inevitable damage.
-damage	the flood caused severe damage.
-damage	there is an unexpected amount of damage.
-religious	religious people often go to church.
-religious	religious people often pray.
-religious	a religious man, he gave a prayer.
-religious	a missionary is religious by definition.
-religious	they perform religious practice at the chapel.
-religious	the religious man was pious.
-relationship	their relationship began as an affair.
-relationship	the couple recently labeled its relationship.
-relationship	intimacy is gained in a relationship.
-relationship	the brother's relationship was chummy.
-relationship	her parents' relationship is harmonious.
-relationship	their working relationship was amicable.
-tree	the apple tree bore fruit in the spring.
-tree	the orange tree provides bountiful produce.
-tree	the tree smelled like spearmint.
-tree	the sandalwood tree is yellow.
-tree	a hemlock is a kind of tree.
-tree	the twig broke off of the tree.
-accomplished	the accomplished writer loves to read.
-accomplished	the accomplished producer is well respected.
-accomplished	the playwright wanted to be accomplished.
-accomplished	the accomplished choreographer waits alone.
-accomplished	the thinker became accomplished later on.
-accomplished	the accomplished publicist has many clients.
-quality	the shopkeeper will guarantee good quality.
-quality	the performance quality sells the shows out.
-quality	he was a stickler for good quality.
-quality	their standard of quality is higher than yours.
-quality	maintaining quality of produce is hard.
-quality	cleanliness is the first decree in quality.
-dinner	her lunch is often leftovers from dinner.
-dinner	he wanted a sandwich for dinner.
-dinner	noodles from dinner were on the table.
-dinner	fondue for dinner is her favorite.
-dinner	i would like to serve dinner now.
-dinner	the dinner was super yummy.
-pain	she could get no relief from the pain.
-pain	the simple irritation became intense pain.
-pain	her migraine caused her pain.
-pain	a nosebleed usually doesn't cause you pain.
-pain	she had some bruising but felt no pain.
-pain	the pain from the stomachache is unbearable.
-fight	the first sword swing began the fight.
-fight	the beat started the fight.
-fight	the goblin fled from the fight.
-fight	the gladiator did not want to fight.
-fight	her bloodline was worth the fight.
-fight	the warlock put up a good fight.
-obligation	her obligation made her liable.
-obligation	the reserved man made privacy an obligation.
-obligation	the contract outlined their obligation.
-obligation	the obligation was harmless.
-obligation	the stockholder has an obligation to stay.
-obligation	his boss refused to disclose the obligation.
-light	the morning light was clear today.
-light	the light from the window hurt her eyes.
-light	there isn't much light during dusk.
-light	the light is so bright that he has to squint.
-light	the storm clouds were clouding the light.
-light	the light reflected off of the window.
-disease	heart disease is common in the u.s.
-disease	type two diabetes is an adult disease.
-disease	the tumor was a symptom of a disease.
-disease	abnormal results show the onset of disease.
-disease	she heard her disease is in remission.
-disease	respiratory disease hinders his breath.
-level	i just measured his level of consciousness.
-level	the salary reflects your level of performance.
-level	the threshold level is unreal.
-level	the level of unemployment has risen.
-level	step it up a level to increase the quota.
-level	he performs at a greater level than you.
-extremely	her written work is extremely powerful.
-extremely	she is impossibly kind and extremely driven.
-extremely	she is extremely and intensely motivated.
-extremely	she is extremely grateful and infinitely proud.
-extremely	steve is exceptionally gifted and extremely humble.
-extremely	sarah unarguably remained extremely competitive.
-reaction	oxygen and metal create a reaction.
-reaction	the chemical reaction is hard to explain.
-reaction	dilute the solutions for a reaction.
-reaction	adding ethanol produces a new reaction.
-reaction	the impurity won't create a reaction.
-reaction	the concentration bears impact on the reaction.
-news	the report presents the news in lay language.
-news	she took a peek at the news before work.
-news	the forum argued about the news.
-news	the archives contain the news since 1950.
-news	the news is broadcasted in the newsroom.
-news	i learn a lot of gossip from the news.
-money	i will pay you money for this.
-money	a good retirement requires saving money.
-money	his paycheck means money for the kids.
-money	she wants to borrow some of his money.
-money	earn some money before you take mine.
-money	i can withdraw some money beforehand.
-engine	the engine is in the front of the car.
-engine	the spare tire is up by the engine.
-engine	a hybrid car has a different engine.
-engine	the jeep's engine gave out at the traffic light.
-engine	engine is another word for motor.
-engine	this car has its engine in the trunk.
-clothes	none of his clothes are made of mesh.
-clothes	sizing a young boy's clothes is difficult.
-clothes	that hat doesn't match his clothes.
-clothes	his clothes are often made of flannel.
-clothes	sports clothes can be made of spandex.
-clothes	his jacket protects his clothes from getting wet.
-material	that material is hard to rip.
-material	covering the statue with any material is hard.
-material	silicone is a bendy kind of material.
-material	the material has an adhesive side.
-material	the material will cling to your hair.
-material	these scientists create an unbreakable material.
-toy	the toy was so cute.
-toy	that doll is the perfect toy for her.
-toy	the toy was jumbo sized.
-toy	the toy is strangely lifelike.
-toy	the water toy was inflatable.
-toy	the dinky toy kept the cat preoccupied.
-plan	the first step of the plan is now complete.
-plan	the plan can result in a transformation.
-plan	the execution of the plan was preemptive.
-plan	the expulsion led to a change of plan.
-plan	the plan is a demonstration of her goodwill.
-plan	follow the essential plan for success.
-table	the table is made of glass.
-table	the chandelier hangs right above the table.
-table	he put the candle on the table.
-table	the porcelain is at the center of the table.
-table	the silverware looks beautiful on the table.
-table	the chrome table had a very modern look.
-mechanism	pull the wire to trigger a mechanism.
-mechanism	the latch was part of a bigger mechanism.
-mechanism	the mechanism had to handle to start it.
-mechanism	the man is proud of his patented mechanism.
-mechanism	the mechanism is designed for that.
-mechanism	he's able to fix the mechanism in no time.
-liar	he's a troublemaker, not a liar.
-liar	the cheater had always been a major liar.
-liar	she is a pessimist and a liar.
-liar	the discovered liar is now an imposter.
-liar	the fast talker and liar both spoke fast.
-liar	the faker became a full-blown liar.
-sexy	many people find the model super sexy.
-sexy	his girlfriend is so sexy.
-sexy	the pervert thought her heartbeat was sexy.
-sexy	the idea of a cheerleader is very sexy.
-sexy	he's a babe, that's how sexy he is.
-sexy	knowing how to seduce someone is sexy.
-sin	she can't forgive him for this sin.
-sin	make sure your wrath doesn't make you sin.
-sin	sin makes a sinner.
-sin	the sin of a firstborn is never forgotten.
-sin	the couple is rejoicing in his sin.
-sin	the extent of the sin was an abomination.
-ship	boat is another name for a small ship.
-ship	the pilot made it onto the ship in time.
-ship	the sail of the ship ripped in the wind.
-ship	the ship was off onto its next expedition.
-ship	the voyage began as the ship left the island.
-ship	the yacht was the owner's favorite ship.
-elegance	her elegance exuded unexpected warmth.
-elegance	the event's formality screams elegance.
-elegance	the home's grandeur signified its elegance.
-elegance	the simplicity of her elegance is incomparable.
-elegance	sensuality and elegance are hard to fake.
-elegance	the elegance of the palace is inherent.
-residence	he took up residence in a nearby town.
-residence	the nearest residence is five miles away.
-residence	the lodge looks like a personal residence.
-residence	the neighborhood has a new residence or two.
-residence	the location of the residence is sublime.
-residence	she could take up residence in the hotel.
-word	she used the correct word on the first try.
-word	the sentence was missing a word.
-word	her nickname is a word used to describe goats.
-word	that word is difficult to pronounce.
-word	the spelling of the word makes no sense.
-word	i can't seem to translate that word.
-team	the team won yet another game.
-team	the team set a new record.
-team	the team was in the lead at halftime.
-team	the entering freshman dominated the team.
-team	the prospect of playing with the team is good.
-team	the team lineup was daunting.
-computer	the system crash destroyed the computer.
-computer	running the application freezes the computer.
-computer	she had this kind of interface on her computer.
-computer	the infrastructure of the computer is weird.
-computer	he was streaming music from his computer.
-computer	his desktop computer is pretty old.
-do	do you often deviate from the rules?
-do	i do not falter when i know what i want.
-do	you do get punished if you misbehave.
-do	do me no wrong and divulge the secret.
-do	i dare you to do that.
-do	you do have the tendency to annoy me.
-smiling	smiling, he stayed staring at the sun.
-smiling	smiling innocently, she took the candy.
-smiling	he was smiling angrily.
-smiling	smiling faintly, she said goodbye.
-smiling	the little boy is smiling obligingly.
-smiling	the woman is smiling wistfully out the window.
-dissolve	inject a solution to dissolve the powder.
-dissolve	disperse the chunks in fluid to dissolve them.
-dissolve	dissolve the substance and it will evaporate.
-dissolve	distill and dissolve the issue immediately.
-dissolve	you can compartmentalize it but never dissolve it.
-dissolve	demystify and dissolve the rumor.
-ignorance	blame his frailty rather than his ignorance.
-ignorance	his striking ignorance upholds his arrogance.
-ignorance	their ignorance stems from their debauchery.
-ignorance	his complete ignorance creates inefficiency.
-ignorance	cut the tomfoolery and fix on your ignorance.
-ignorance	your cockiness and ignorance bother me most.
-code	change the code to make it run faster.
-code	the new solution could save the code.
-code	she added new code to the script.
-code	he can code like a pro but can't type.
-code	the key to good code is simplicity.
-code	modify her code so it can take user inputs.
-argumentatively	he unadvisedly spoke argumentatively.
-argumentatively	the hardhearted woman speaks argumentatively.
-argumentatively	she pitilessly and argumentatively tore him apart.
-argumentatively	the thought is dirtily and argumentatively constructed.
-argumentatively	they spoke precociously and argumentatively.
-argumentatively	her speech began provocatively and argumentatively.
-count	he couldn't count past five.
-count	he will count backwards to one.
-count	she was able to count to a hundred.
-count	i will count by fives to speed it up.
-count	i can count the tally for you.
-count	he will count up to fourteen.
+seafood | shrimp is a kind of seafood.
+seafood | she ordered scallops at the seafood restaurant.
+seafood | tempura is one popular way to prepare seafood.
+seafood | he is happy to see flounder in the seafood section.
+seafood | caviar is a gourmet kind of seafood.
+seafood | chowder is made with different kinds of seafood.
+bird | the bird flew around the cage.
+bird | the nest was just big enough for the bird.
+bird | the only bird she can see is the parrot.
+bird | the bird poked its head out of the hatch.
+bird | the bird holds the worm in its beak.
+bird | the bird preened itself for mating.
+beat | the beat of the music was soulful.
+beat | the song had a catchy beat.
+beat | she tapped her foot to the rhythmic beat.
+beat | he thought that the beat had a good vibe.
+beat | people thrashed their heads to the beat.
+beat | she can strum the beat on her guitar.
+vacation | the vacation started with a perfect sunset.
+vacation | she can relax the rest of her vacation.
+vacation | there's nothing like vacation in paradise.
+vacation | the vacation in hawaii was a luxury.
+vacation | the vacation is a hideaway from home.
+vacation | their honeymoon was a vacation in france.
+bar | the bar looked like an ancient tavern.
+bar | cowboys go to saloons instead of bars.
+bar | he learned quickly that bars don't cater.
+bar | that bar was their new favorite venue.
+bar | the popular nightclub has added a bar.
+bar | the bar had an urban feel to it.
+taste | she says the hot chocolate had a rich taste.
+taste | the spicy taste lingered in her mouth.
+taste | the margarita has a zing to its taste.
+taste | her delicate palate reacted strongly to the taste.
+taste | the distinctive taste of the cereal is gross.
+taste | she enjoyed the mousse's aroma and taste.
+useless | useless help desks are frustrating.
+useless | the useless task was just busywork.
+useless | the presentation is useless and irritating.
+useless | the trip was agonizing and quite useless.
+useless | the grueling process is just useless.
+useless | the excruciating demands seemed useless.
+beer | guys tend to like beer more than wine.
+beer | he can grab a bottle of beer from here.
+beer | the bartender served her a cold beer.
+beer | she ordered a margarita after the beer.
+beer | all she wants today is a pint of beer.
+beer | he was thirsty for the beer in the fridge.
+road | the bus blocked the entire road.
+road | the tunnel cut through the main road.
+road | the sidewalk runs alongside the road.
+road | the road pileup didn't clear for hours.
+road | surprisingly, the main road only has one lane.
+road | the tollbooth was at the end of the road.
+dog | the man was able to rescue the dog.
+dog | the shelter worker took care of the dog.
+dog | her dog's temperament matched her own.
+dog | a dog is a great companion.
+dog | the spaniel was a terrible dog.
+dog | the vet didn't want a dog of her own.
+collection | she loves her collection of antiques.
+collection | he hoarded a collection of autographs.
+collection | her souvenir collection began in childhood.
+collection | he stole a stamp to complete his collection.
+collection | the item isn't worth adding to the collection.
+collection | she assembled a collection of auction items.
+dedication | his dedication shows how passionate he is.
+dedication | his dedication makes him so successful.
+dedication | her dedication spurred her pursuit.
+dedication | her dedication mirrored her commitment.
+dedication | his dedication to her shows how faithful he is.
+dedication | her loyal dedication is indisputable.
+great | the great experience became irresistible.
+great | you are great but aim to be terrific.
+great | the great waiter took care of his guests.
+great | the spectacular view made the room so great.
+great | the food is great and the service exceptional.
+great | it is amazing how great of a runner she is.
+illness | the illness spread across the country.
+illness | his illness turned out to be the flu.
+illness | the penicillin won't cure her illness.
+illness | she contracted a stomach illness from the food.
+illness | typhoid is an illness that affected many people.
+illness | he isn't susceptible to the illness.
+prison | another word for jail is prison.
+prison | he got out of prison early on parole.
+prison | no longer a juvenile, he was sent to prison.
+prison | she got probation and didn't go to prison.
+prison | sobriety is enforced in the prison.
+prison | the interrogation took place in prison.
+protection | she found security in his protection.
+protection | privacy means protection around here.
+protection | he avoids calling protection services.
+protection | the shield provided little protection.
+protection | she feels safe with the given protection.
+protection | he finds protection inside of the house.
+crazy | his nightmare drove him crazy.
+crazy | the crazy taxi driver was freaky.
+crazy | the crazy animal looked bloodthirsty.
+crazy | the crazy demon was just grotesque.
+crazy | the ritual felt crazy and animalistic.
+crazy | this crazy dystopia was his new life.
+silly | the unrealistic proposal was just silly.
+silly | the silly rumor was just absurd.
+silly | the unsubstantiated claims are just silly.
+silly | the play was ridiculous and silly.
+silly | the overblown statistics sounded silly.
+silly | the news story was silly and unfounded.
+bed | she enjoyed sleeping in her own bed.
+bed | the cot replaced the bed for the night.
+bed | napping in bed can be good for you.
+bed | the toddler crawled onto the bed.
+bed | the bed cushions sagged quickly.
+bed | he took the blanket off of the bed.
+challenge | this problem proved to be a challenge.
+challenge | the hardship is a challenge she will defeat.
+challenge | a challenge is an obstacle to overcome.
+challenge | the challenge's burden scared her.
+challenge | this challenge is critical for the team.
+challenge | passing the challenge is a formidable feat.
+sign | the sign marked the entrance.
+sign | the graffiti was a sign of his presence.
+sign | this was a telltale sign of love.
+sign | the sign was inscribed with rules.
+sign | the sign fell from the roof with a swoosh.
+sign | the sign hung from the billboard.
+applause | the cheering drowned out the applause.
+applause | the ruckus of the applause hurt her ears.
+applause | the commotion of applause is infectious.
+applause | her applause was inhibited.
+applause | he caught an earful of applause as he left.
+applause | the rowdy crowd burst into applause.
+broken | the broken mirror went missing.
+broken | the broken leg made the table unstable.
+broken | she dangerously teeters on the broken chair.
+broken | the disorganized room is full of broken things.
+broken | the computer was hopelessly broken.
+broken | the door hung crooked after being broken.
+garbage | the dumpster was full of garbage.
+garbage | he threw the rotten apple into the garbage.
+garbage | trash is another word for garbage.
+garbage | the garbage began to reek in the sun.
+garbage | the landfill is brimming with garbage.
+garbage | the sewer bubbled over into the garbage.
+poor | the young people were poor.
+poor | the poor man felt powerless.
+poor | the poor orphan wished for his parents.
+poor | the poor woman is tormented by her faults.
+poor | the poor girl became dependent again.
+poor | the unlucky man quickly became poor.
+bag | she wants to pack a bag for the day trip.
+bag | he put is wallet in her bag.
+bag | the leather bag fell from the shelf.
+bag | he had a bag and a laptop to put in it.
+bag | the trusty satchel was her favorite bag.
+bag | the umbrella was too big for her bag.
+show | the show was still on television.
+show | the show has one more episode next week.
+show | he thinks the show is a bit melodramatic.
+show | the humor of the show is slapstick comedy.
+show | she wants to reenact the storyline of the show.
+show | this show is older than that sitcom.
+food | she eats junk food on the weekends.
+food | he felt fat after eating that much food.
+food | the cat food today consisted of kibble.
+food | her food has a lot of nutritional value.
+food | he was devouring his food as she spoke.
+food | the steakhouse serves vegetarian food.
+marriage | she got pregnant before her marriage.
+marriage | dating sometimes leads to marriage.
+marriage | girls fantasize about marriage after puberty.
+marriage | she wants marriage, he wants to breakup.
+marriage | the newlywed talks about marriage for hours.
+marriage | you should get some marriage advice.
+kindness | he had respect for her kindness.
+kindness | you need kindness and loyalty in a friend.
+kindness | his manliness and kindness are irresistible.
+kindness | her meekness outweighed her kindness.
+kindness | the direct nature of his kindness is gentlemanly.
+kindness | the school teaches piety and kindness.
+cook | defrost the fish before you cook it.
+cook | if she wants to cook, she needs a fridge.
+cook | he thought a pan was all he needed to cook.
+cook | the steaming pot holds all she can cook.
+cook | he thought you had to cook the dough.
+cook | warm up the stove to cook the stew.
+dance | just shuffle through the dance steps.
+dance | she can dance in the ballroom course.
+dance | juggling dance and gymnastics was hard.
+dance | irish folk dance requires fast footwork.
+dance | he is found dancing the dance all the time.
+dance | walking the dance helped him learn it.
+magic | the spell proved magic exists.
+magic | he doesn't believe in magic or witchcraft.
+magic | they psychic performed magic tricks.
+magic | tarot cards are make-believe magic.
+magic | the mythical story made magic seem real.
+magic | the magician cast his magic on her.
+invisible | the ghost was invisible.
+invisible | the girl felt insignificant and invisible.
+invisible | the web is almost invisible to the naked eye.
+invisible | the wind is invisible and odorless.
+invisible | it's inexplicable how the boy became invisible.
+invisible | she was virtually invisible in the dark.
+charming | the ambitious salesman was quite charming.
+charming | her loveable laugh was charming.
+charming | his charming smile was beguiling.
+charming | the speaker's charismatic nature is charming.
+charming | the toddler's mischievousness toddler is charming.
+charming | the charming proposal was gutsy.
+emotionally | he felt emotionally and mentally secure.
+emotionally | morally and emotionally, it is difficult.
+emotionally | objectively, he gets her emotionally.
+emotionally | an unsound choice destroyed her emotionally.
+emotionally | the family solidly pumps him up emotionally.
+emotionally | the kid is successful and emotionally in tune.
+cockroach | the pest control killed the cockroach.
+cockroach | the cockroach fed off the mold.
+cockroach | the cockroach ate the ant.
+cockroach | the grasshopper and the cockroach are friends.
+cockroach | the cockroach infestation overwhelmed her.
+cockroach | the pesky cockroach managed to survive.
+sew | you need an eye for detail to sew.
+sew | the pattern was too hard to sew by hand.
+sew | he is quite crafty and likes to sew.
+sew | she forgot to sew the last stitch.
+sew | he chose woodcarving over learning to sew.
+sew | the artisan can sew the most beautiful gowns.
+sad | the reminder of her sad past hurt her.
+sad | the future could be happy or sad for her.
+sad | the perplexing situation made him sad.
+sad | it was upsetting how sad she was.
+sad | the depressing movie made everyone sad.
+sad | the moment was noteworthy yet sad.
+star | the star looked like an incoming meteor.
+star | the star is light years away from earth.
+star | her star sign is gemini.
+star | the microcosmic star still shines bright.
+star | the spaceflight uncovered a new star.
+star | she likes that capricorn is her star sign.
+angry | he was both angry and frightened.
+angry | he panicked at how angry his boss was.
+angry | she's angry because i offended her.
+angry | i am displeased with how angry he was.
+angry | dissatisfied and angry, he began to sulk.
+angry | flabbergasted at her results, she got angry.
+experiment | this experiment aims to study human behavior.
+experiment | the experiment is diagnostic of psychosis.
+experiment | the experiment asks for a blood sample.
+experiment | debrief the participants in the experiment.
+experiment | a recent experiment led to a new observation.
+experiment | the experiment is built on initial expectations.
+mountain | the trail ends halfway up the mountain.
+mountain | i wanted to ski down the mountain faster.
+mountain | the glacier is at the mountain top.
+mountain | a snowboarder got stuck on the mountain.
+mountain | the mountain had a beautiful summit.
+mountain | the mountain has a steep slope.
+pig | the pig and cattle do not get along well.
+pig | the horse shared its food with the pig.
+pig | the whinny frightened the pig.
+pig | the pig got stuck in the lasso.
+pig | the pig was sprawled in the hay.
+pig | the bigger pig was a stud.
+nation | the revolution restructured the nation.
+nation | colonialism shaped the nation in no time.
+nation | impoverishment left the nation crumbling.
+nation | migration changed the population of the nation.
+nation | globalization impacts some nations more.
+nation | the rebellion rocked the small nation.
+shape | a two dimensional shape is flat.
+shape | a circle is an elementary shape.
+shape | the pyramid is a three-dimensional shape.
+shape | her body has the shape of an hourglass.
+shape | a typical cloud's shape is irregular.
+shape | the set dimensions created an odd shape.
+burn | the fire would burn slowly.
+burn | the cigarette could burn her skin.
+burn | a blowtorch will burn all night.
+burn | the inflammable jacket will never burn.
+burn | the heat of the stove can burn you.
+burn | the flashbulb may burn the curtain.
+solution | the best solution has the least loopholes.
+solution | the perfect solution isn't always simple.
+solution | a discrete ending to the affair is his solution.
+solution | the solution is straightforward and effective.
+solution | find a viable solution for global warming.
+solution | her solution is affordable for all parties.
+big | he wants to be a big fish in a small pond.
+big | while he isn't obese, he is quite big.
+big | cutting down the big tree is substantial.
+big | his big feet are disproportionate.
+big | there big selection is just a hodgepodge.
+big | a bucketful of big strawberries awaits them.
+hair | his blond hair looks good with blue.
+hair | his moustache hair is a strange color.
+hair | her hair is droopy in the heat.
+hair | the model's hair was voluminous.
+hair | don't straighten your hair if you want to keep it.
+hair | the cat's whiskers felt like human hair.
+investigation | the criminal is under investigation again.
+investigation | an investigation can produce a charge.
+investigation | the investigation is led with suspicion.
+investigation | the investigation was unlawful.
+investigation | the burglary didn't lead to an investigation.
+investigation | the investigation uncovered a scandal.
+tried | he tried again later.
+tried | soon afterwards she tried to call him.
+tried | he tried to move the date to later.
+tried | he tried to close the door forcibly.
+tried | she hurriedly tried to run after the cat.
+tried | he abandoned the endeavor when she tried.
+dig | he can dig and discover all he wants.
+dig | the erosion made it difficult to dig.
+dig | he didn't want to dig in the excavation.
+dig | they want to dig for another fossil.
+dig | you can dig a ditch in a few hours.
+dig | he didn't want to dig underground.
+gun | a gun is a kind of weapon.
+gun | firing a gun can kill someone.
+gun | the gun had one bullet left.
+gun | the shooter threw away his gun.
+gun | he aimed the gun at the target.
+gun | the blast from the gun was loud.
+argument | the new evidence helped his argument.
+argument | i will confirm the more valid argument.
+argument | the first argument has a better explanation.
+argument | this argument has no conclusion.
+argument | the statement supports the other argument.
+argument | there's no truth to this argument.
+business | banking and business make no sense to me.
+business | the company will improve its business sector.
+business | he wants to invest in a better business.
+business | her business needed to take out a loan.
+business | the business will expand its physical property.
+business | this new business venture will make her rich.
+fish | he wanted to see the fish in the ocean.
+fish | he plans to find sharks and other fish.
+fish | he wants more fish after catching the carp.
+fish | the gator eats fish like trout.
+fish | the divers weren't there for the fish.
+fish | you might see some fish when you surf.
+wash | to make the counter sterile, wash it.
+wash | the dishwasher can wash all the dishes.
+wash | he likes to wash himself with bar soap.
+wash | she felt clean after she could wash herself.
+wash | you have to wash your laundry beforehand.
+wash | the maid was asked to wash the floor.
+science | the facility is used for science research.
+science | the student studied many kinds of science.
+science | this applied science is very different.
+science | his dissertation is in material sciences.
+science | economics is a kind of social science.
+science | the article is in a science journal.
+body | the man had a very athletic body.
+body | her body was very skinny.
+body | she felt like her body was frumpy.
+body | the body of the dress is shapeless.
+body | the midsection of his body is well trained.
+body | the model's body is unimposing in reality.
+bear | watch out, that bear will chase you.
+bear | the woodpecker was not afraid of the bear.
+bear | the caribou and the bear smell one another.
+bear | the bear found its next prey in the hare.
+bear | the swan was not bothered by the bear.
+bear | the bear ran from the rattlesnake.
+ball | he hit the ball out of the field.
+ball | she can't pass the ball for the life of her.
+ball | she could dunk the ball like a pro.
+ball | getting a puck can be easier than a ball.
+ball | the ball bounced off the backboard.
+ball | he gave the ball a quick jab.
+economy | the boom gave the economy a big boost.
+economy | the economy spiked unexpectedly.
+economy | the economy was in a slump.
+economy | the economy didn't predict the carpool demand.
+economy | unemployment still affects the economy.
+economy | the current economy is good for graduates.
+invention | the invention will comprise his integrity.
+invention | the invention involves an unexpected element.
+invention | the semiconductor was a crucial invention.
+invention | a push of a button rotated the invention.
+invention | the invention is schematically drawn.
+invention | the new invention has a reflective surface.
+dessert | ice cream is her favorite dessert.
+dessert | candy is a good choice for dessert.
+dessert | the dessert at the dinner was fruitcake.
+dessert | in her mind, yogurt doesn't replace dessert.
+dessert | the jelly sandwich is practically dessert.
+dessert | the filling of the dessert was marvelous.
+weather | the cold weather almost ruined the trip.
+weather | summer weather brightens everyone's mood.
+weather | the weather in autumn is bearable.
+weather | the weather report didn't predict the blizzard.
+weather | typical summer weather is a monsoon.
+weather | the balmy weather is good for his skin.
+king | the king is the head of the royal family.
+king | the king was wealthy beyond belief.
+king | this king does not wear a crown.
+king | a king and an emperor had similar roles.
+king | the king is a ruler of his land.
+king | the king is not a dictator.
+spoke | when she spoke, she stated the truth.
+spoke | she candidly spoke about her experiences.
+spoke | he spoke pessimistically over coffee.
+spoke | he spoke conversationally without listening.
+spoke | the child spoke engagingly in her presentation.
+spoke | he tellingly spoke about the situation.
+sugar | the recipe called for a cup of sugar.
+sugar | plain sugar is the only kind he uses.
+sugar | sugar and butter are his two big cravings.
+sugar | unrefined sugar has a grittier taste.
+sugar | the tapioca is soaked in sugar.
+sugar | powdered sugar can be very messy.
+jungle | the monkey lives in the jungle.
+jungle | the jungle appears giant from every angle.
+jungle | ferocious animals abound in the jungle.
+jungle | the gazelle grazed outside of the jungle.
+jungle | the lion does not live in the jungle.
+jungle | the jungle houses a new species of frog.
+noise | i could hear some noise last night.
+noise | the noise he heard was of crying.
+noise | the child's whispering made some noise.
+noise | the scariest noise ever was the rumble.
+noise | she suppressed her squeal to not make noise.
+noise | the noise was a low-pitched growl.
+lady | the queen was a classy lady.
+lady | the princess is a newly married young lady.
+lady | the weird lady needed a serious makeover.
+lady | the debutante was presented as a lady.
+lady | the lady has a keen suitor.
+lady | the lady was a darling of society.
+ability | his ability outshone his genius.
+ability | her ability and knack for it got her here.
+ability | his ability and assertiveness are attractive.
+ability | he has the ability to cultivate creativity.
+ability | forethought is an important ability.
+ability | his unwavering ability is unmatched.
+sell | someone will buy the car if you sell it.
+sell | she will sell it for cheap.
+sell | the high supply changes what you sell it for.
+sell | his hobby is to buy and sell comic books.
+sell | the drugstore sells prescription drugs.
+sell | i sell secondhand clothes for a living.
+attitude | she has a negative attitude.
+attitude | his selfish attitude won't get him far.
+attitude | generally, her attitude is condescending.
+attitude | he will work on his domineering attitude.
+attitude | his humorless attitude is stereotypical.
+attitude | he has a nonchalant attitude about it.
+soul | the soul and spirit are closely related.
+soul | the goodness of his soul makes him glow.
+soul | the fact that he has a soul astounds him.
+soul | she hopes her soul will live on in eternity.
+soul | her soul wished for something eternal.
+soul | his discovery of his soul was a blessing.
+charity | this group often volunteers for charity.
+charity | the organization has a new devotion to charity.
+charity | the charity is improving its allocations.
+charity | the charity event doubled the funding.
+charity | the charity is a resource for these families.
+charity | i encourage you to participate in the charity.
+event | everyone was so happy at the event.
+event | the event is a celebration of his life.
+event | the tenth reunion was a spectacular event.
+event | the housewarming event is heavily attended.
+event | the impromptu event was special.
+event | the headmaster's luncheon is a monthly event.
+driver | the driver had a duty to take her home.
+driver | the driver can't lift the box out of the trunk.
+driver | the bulldozer needed a better driver.
+driver | the taxicab driver is tired of them.
+driver | the actress needed to hire a new driver.
+driver | the driver hates loading in at the airport.
+weak | she felt crummy and weak after the class.
+weak | the weak competition left her feeling mediocre.
+weak | he saw himself as weak and unattractive.
+weak | the poorly managed project has a weak foundation.
+weak | the dismal building looks weak in the wind.
+weak | his weak pitch is amateurish.
+plant | the plant was growing fast by springtime.
+plant | the artificial plant looked almost real.
+plant | the leafy plant looked better indoors.
+plant | the windowsill had acquired a new plant.
+plant | the garden could use a new plant.
+plant | he watered the plant after the reminder.
+willingly | a happy kid, he willingly smiled.
+willingly | he incessantly complains, we willingly nod.
+willingly | he willingly and earnestly commits the crime.
+willingly | she openly and willingly answered the questions.
+willingly | she is fiercely and willingly independent.
+willingly | she consistently laughs willingly when he does.
+professional | the worker is a veteran professional.
+professional | the seamstress was a true professional.
+professional | the skilled professional maneuvers well.
+professional | the beekeeper, always a professional, stayed calm.
+professional | the lumberyard needs a professional.
+professional | the technician needs another professional's opinion.
+texture | the table's rough texture surprised him.
+texture | the weird-looking cake has a yucky texture.
+texture | the jellylike texture of the milk is bad.
+texture | the couch cushion had a plushy texture.
+texture | his skin had become a leathery texture.
+texture | the floor's sticky texture is disgusting.
+successful | the successful actress is extremely famous.
+successful | the successful scientist exerts his influence.
+successful | the successful actor wants more fame.
+successful | her successful career made her legendary.
+successful | that powerhouse of a woman is so successful.
+successful | he had been successful in the sixties.
+feeling | finals left her feeling afraid for her grade.
+feeling | while he is worried, she is feeling fine.
+feeling | the baby was feeling fussy all day.
+feeling | the cat is feeling grumpy and prone to scratch.
+feeling | his temperamental moods left her feeling sad.
+feeling | she's feeling weary of his skittish behavior.
+dressing | the thicker dressing has egg in it.
+dressing | garlic made the dressing inedible.
+dressing | the mozzarella has an oily dressing.
+dressing | a delicious dressing will be the garnish.
+dressing | the dressing gave the marmalade a sour twist.
+dressing | sauerkraut is sour enough without dressing.
+carefully | she carefully handled the roses.
+carefully | she carefully and efficiently did the job.
+carefully | he explained it creatively and carefully.
+carefully | the food is neatly and carefully arranged.
+carefully | it is carefully and flawlessly constructed.
+carefully | she carefully and cleverly constructed the outcome.
+doctor | the hospital wanted to hire a new doctor.
+doctor | a brilliant doctor performed the surgery.
+doctor | the doctor doesn't deal with patient trauma.
+doctor | you can't be an occupational doctor.
+doctor | he will consult his friend before his doctor.
+doctor | the physician prefers being called a doctor.
+time | he has a lot of time before the event.
+time | the days go by quicker with time.
+time | they will pick a time for the meeting.
+time | he missed the time of the deadline.
+time | write the time into a calendar space.
+time | tomorrow is a better time for her.
+medication | the medication has strange effects on her.
+medication | her combination of medication wasn't good.
+medication | the medication acts as an antidote.
+medication | the formulation of the medication is new.
+medication | she took her old prescription medication instead.
+medication | this medication is essential to his well-being.
+pleasure | people have sex for pleasure.
+pleasure | people get pleasure from masturbation.
+pleasure | forced pleasure is an oxymoron.
+pleasure | she fantasizes about the pleasure of his touches.
+pleasure | he was gay and got pleasure from him.
+pleasure | sexual pleasure can be a taboo topic.
+philosophy | philosophy provides many perspectives.
+philosophy | existentialism is a topic of philosophy.
+philosophy | spirituality and philosophy aren't the same.
+philosophy | the paradigm taught in philosophy confused her.
+philosophy | materialism is a discussion in philosophy.
+philosophy | she loves philosophy yet remains agnostic.
+deliberately | she deliberately and wrongfully hurt him.
+deliberately | he ruthlessly and deliberately ignores her.
+deliberately | she deliberately fell as she inadvertently slipped.
+deliberately | not deliberately, he arbitrarily asked her out.
+deliberately | the decision was deliberately and unjustly made.
+deliberately | he foolishly accepted the offer deliberately.
+deceive | to lie is to deceive.
+deceive | he's devious enough to deceive her.
+deceive | the ploy was to deceive the old lady slowly.
+deceive | the plan is to deceive and bribe him quickly.
+deceive | the operative was meant to deceive him.
+deceive | her motive is to deceive his friend.
+tool | he needed any tool other than a saw.
+tool | the machine seems like an excessive tool.
+tool | a stapler is the most useful office tool.
+tool | the switchblade can be a dangerous tool.
+tool | the tool shop advertised the shears.
+tool | the best tool for crushing is right here.
+camera | the best camera looks unremarkable.
+camera | the camera captures a lot of colors.
+camera | the camera shutter broke when it fell.
+camera | the camera focus causes low quality photos.
+camera | the camera display had many menu options.
+camera | the camera reflex is too slow.
+art | the poetry workshop was a work of art.
+art | the school has a strong tradition of art.
+art | the art exhibition left many breathless.
+art | the contemporary art left much to be desired.
+art | medieval art is not up her alley.
+art | the irony of the piece is pure art.
+construction | construction slowed down at the last wall.
+construction | plastering is the next step in construction.
+construction | the flooring began the construction process.
+construction | the remodeling takes two years of construction.
+construction | the homeowner hated the construction.
+construction | the construction is true workmanship.
+unaware | she is unaware of how oblivious he is.
+unaware | she was unaware and unashamed of her status.
+unaware | her words are unprejudiced yet unaware.
+unaware | he is inarticulate and unaware of this issue.
+unaware | he's unaware of how uninterested she is.
+unaware | he's unaware and unequipped for this.
+disturb | his insult will disturb her deeply.
+disturb | his affect will begin to disturb me soon.
+disturb | he can disturb and aggravate anyone.
+disturb | conspire as much as you can to disturb her.
+disturb | restrain him so he can't disturb me.
+disturb | do not disturb or jeopardize your chance.
+emotion | his shame is his least controlled emotion.
+emotion | sorrow is his dominating emotion nowadays.
+emotion | indignation was the emotion she could identify.
+emotion | betrayal isn't an emotion you can trigger.
+emotion | she felt an emotion she knew to be embarrassment.
+emotion | she has a desire to feel overwhelming emotion.
+device | the device has a finicky antenna.
+device | the device is wired very simply.
+device | she had to coax the device to start it.
+device | the switch on the device popped off.
+device | the device was disconnected from power.
+device | the transistor was built into the device.
+suspect | the suspect was dead before they got there.
+suspect | the police still don't have a prime suspect.
+suspect | the suspect attempted to run.
+suspect | the suspect committed suicide in prison.
+suspect | the real kidnapper isn't a suspect in the case.
+suspect | the suspect's motive was senseless.
+play | he wanted to play the game, too.
+play | you can play too if you play softball.
+play | he gets to play golf at his meetings.
+play | play volleyball more often for good legs.
+play | sparring is his way to play with you.
+play | the competition forces you to play well.
+smart | the informed candidate has smart responses.
+smart | he seems smart and sincere.
+smart | she is fearless and very smart.
+smart | she genuinely is smart but doesn't work hard.
+smart | the fifth grader is smart and resourceful.
+smart | while she's too trusting, she's smart.
+movie | this story is left out of the movie.
+movie | the character doesn't develop in the movie.
+movie | the movie premiere had a red carpet.
+movie | this movie is one adventure after the other.
+movie | turn on the t.v. to watch the movie.
+movie | a movie can have many sequels.
+movement | the movement was revolutionary.
+movement | this is a movement against communism.
+movement | the movement was oppressive.
+movement | the movement is based on utopian ideals.
+movement | many in the movement have a scary mindset.
+movement | radical people took part in the movement.
+electron | the electron moves in a wave.
+electron | an electron is a miniscule particle.
+electron | an electron impacts the substance's equilibrium.
+electron | he calculated the wavelength of an electron.
+electron | use planck's constant for the mass of an electron.
+electron | find the thermal energy of an electron.
+student | the student was in class when his aunt called.
+student | every student receives a merit scholarship.
+student | the faculty to student ratio is high this year.
+student | the student reread her notes before the course.
+student | this past term zipped by for the student.
+student | only one student in the class is bilingual.
+delivery | the website offered free delivery.
+delivery | the delivery date was unclear.
+delivery | the form of delivery was up to him.
+delivery | she wants to intercept the delivery.
+delivery | he wanted confirmation of the delivery.
+delivery | she requested express delivery to save time.
+trial | the case finally went to trial.
+trial | the lawyer mediated before the trial.
+trial | a decision will be made during the trial.
+trial | the defendant in the trial got nervous.
+trial | the juror was forced to be in the trial.
+trial | the trial is a huge a chance for the attorney.
+laugh | she tried not to laugh and had to gasp.
+laugh | at comedy clubs people both laugh and clap.
+laugh | when i laugh i sometimes sneeze.
+laugh | a giggle is the most she will ever laugh.
+laugh | she tends to sigh whenever i laugh.
+laugh | he spit out his water when he had to laugh.
+usable | the writing is usable but barely publishable.
+usable | the design is usable and reproducible.
+usable | the distinguishable product isn't usable.
+usable | the microwave is recognizably usable.
+usable | it will be marketable once it is universally usable.
+usable | the usable parts are all salvageable.
+apartment | they rent out the apartment in their home.
+apartment | this apartment floor is under renovation.
+apartment | this apartment doesn't have a big kitchen.
+apartment | parts of the apartment are ladder accessible.
+apartment | the long hallway in the apartment is skinny.
+apartment | the apartment has cute little nooks.
+building | the building used to be a theater.
+building | the library building is pretty old.
+building | the building is a mansion for themselves.
+building | there's a mousetrap in the building entrance.
+building | the skyscraper is the city's newest building.
+building | the mosque is the lowest building here.
+dangerous | the punishment was dangerous and cruel.
+dangerous | climbing that dangerous bridge is boneheaded.
+dangerous | aggravating the president is unpatriotic and dangerous.
+dangerous | it's unwise and dangerous to take it on.
+dangerous | the dangerous monster smelled atrociously.
+dangerous | these dangerous conditions are unacceptable.
+gold | i want a gold watch for my thirtieth.
+gold | the yellow gold shines brightly in the sun.
+gold | he eventually chose the gold ring.
+gold | the horseshoe has pink and gold accents.
+gold | the glittering gold is breathtaking.
+gold | the paperweight was made of gold.
+typical | it was typical for him to rely on her.
+typical | it is typical for him to seem peculiar.
+typical | it is typical for her to include him.
+typical | she assumed that this weather is typical.
+typical | he prefers the typical and conventional.
+typical | she's accustomed to a more typical interaction.
+law | the law would act to her benefit.
+law | he will enforce the law if she breaks it.
+law | the applicability of the law is murky.
+law | house arrest is a law-imposed restriction.
+law | a new law doesn't work retroactively.
+law | all i want is to overturn that law.
+skin | the skin on her face turns red in the sun.
+skin | shaving your skin makes it smoother.
+skin | her skin is prone to a pimple or two.
+skin | tanning your skin artificially causes cancer.
+skin | the fragrance of his skin was delightful.
+skin | a vampire's skin can shimmer in the sun.
+music | this song is like her favorite kind of music.
+music | the orchestra plays beautiful music.
+music | i can't improvise music, unfortunately.
+music | the performer forgot his sheet music.
+music | karaoke is not the place for good music.
+music | elevator music is usually instrumental.
+hurting | her nose is still hurting after the fall.
+hurting | his tooth was hurting after practice.
+hurting | hurting her hip was the worst outcome.
+hurting | the child's bony bottom is hurting her lap.
+hurting | the prosthetic arm was hurting her.
+hurting | her pelvis was hurting tremendously.
+left | his remains were left on the battlefield.
+left | the child was thankfully left unharmed.
+left | the turkey was left from november.
+left | she was left undecided after hearing him out.
+left | he was left feeling unnoticed.
+left | his question was left unanswered.
+war | the army was willing to lose the war.
+war | the camp is not safe from the war.
+war | the soldier was sent to war.
+war | he did not want to know of any war casualty.
+war | you can rebel against a war.
+war | the battlefield of the war grew quickly.
+personality | his personality changes with his stress.
+personality | his personality is just compulsive.
+personality | her subconscious impacted her personality.
+personality | he has borderline personality disorder.
+personality | his personality brought down her mood.
+personality | that overt trait is a part of her personality.
+impress | you impress the unsuspecting countess.
+impress | don't terrify her but impress her.
+impress | misdirect his attention to impress him.
+impress | titillate his interests to impress him.
+impress | try to impress or astonish him!
+impress | you will mesmerize and impress your audience.
+job | for her job she works as a cashier.
+job | the coordinator's job is to organize.
+job | recruitment season is a time to get a job.
+job | the job position recently closed.
+job | the manager wanted to give up his job.
+job | this month the job is under supervision.
+read | i can't read that whole book.
+read | she read the information online.
+read | the title was too long to read.
+read | half of the literature she reads is medieval.
+read | he didn't read up on any of the relevant topics.
+read | he read the documentation of the case.
+election | the election took place at the meeting.
+election | the council has an election next spring.
+election | the candidate was up for election.
+election | the poll was swarmed for the election.
+election | the nomination for election was an honor.
+election | the councilman will stay for the election.
+stupid | that guy is so stupid and such a fool.
+stupid | the stupid secretary is just incompetent.
+stupid | he said a bunch of stupid baloney.
+stupid | good riddance to that stupid project!
+stupid | the stupid lowlife walked right out.
+stupid | she calls him a jackass, i think he's stupid.
+sound | the sound of her voice will resonate.
+sound | the microphone wasn't producing any sound.
+sound | the speakerphone has a great sound quality.
+sound | that sound came from the keyboard.
+sound | his sound was on mute.
+sound | she's broadcasting the sound across the field.
+help | someone had to help her replace the engine.
+help | you can't recover without a doctor to help you.
+help | stimulate the area to help it wake up.
+help | please clarify how i can help.
+help | you will stabilize if you let him help you.
+help | reinforce the idea that help is good.
+blood | she was bleeding and lost a lot of blood.
+blood | the blood circulation in her legs is bad.
+blood | blood began to fill the wound.
+blood | blood spurted out of the rupture.
+blood | blood flows through the major artery.
+blood | blood looks blue through our skin.
+wear | she wanted to wear a dress tonight.
+wear | when you wear silk you have to be careful.
+wear | i want to wear a handkerchief tonight.
+wear | i can't wear this unbuttoned to meet his parents.
+wear | i'll scream if you wear bloomers again.
+wear | i like to wear sheath-like material.
+picture | the picture was sketched on paper.
+picture | he will scribble a picture for you.
+picture | printing a picture is harder than it seems.
+picture | draw the picture in ink.
+picture | picture is another word for a photograph.
+picture | the letter contained a picture.
+flow | hot air would flow out from the heater.
+flow | the water flow reminds him to pay his rent.
+flow | the leak disrupted the flow.
+flow | the spout has a shape that inhibits flow.
+flow | a liter of water will flow out of the canister.
+flow | the turbine relies on a steady flow.
+mathematical | it's a random mathematical expression to me.
+mathematical | calculus is a type of mathematical study.
+mathematical | the mathematical simulation made the point.
+mathematical | the course has a mathematical classification.
+mathematical | mathematical formulas use arbitrary variables.
+mathematical | these generalizations are mathematical in nature.
+brain | the human brain still amazes us today.
+brain | the brain is made up of cells.
+brain | the brain has no nerve endings.
+brain | a neuron is the fundamental unit of the brain.
+brain | neuroscientists research the brain functions.
+brain | the oldest brain is the cerebellum.
+land | this piece of land borders two countries.
+land | the island consists of uninhabitable land.
+land | a fence marks the border of his land.
+land | this land is his refuge.
+land | in a faraway land, people live differently.
+land | a swamp shouldn't be classified as land.
+damage | the accident left some serious damage.
+damage | the snow's impact required damage control.
+damage | the possibility of damage made her nervous.
+damage | the storm caused inevitable damage.
+damage | the flood caused severe damage.
+damage | there is an unexpected amount of damage.
+religious | religious people often go to church.
+religious | religious people often pray.
+religious | a religious man, he gave a prayer.
+religious | a missionary is religious by definition.
+religious | they perform religious practice at the chapel.
+religious | the religious man was pious.
+relationship | their relationship began as an affair.
+relationship | the couple recently labeled its relationship.
+relationship | intimacy is gained in a relationship.
+relationship | the brother's relationship was chummy.
+relationship | her parents' relationship is harmonious.
+relationship | their working relationship was amicable.
+tree | the apple tree bore fruit in the spring.
+tree | the orange tree provides bountiful produce.
+tree | the tree smelled like spearmint.
+tree | the sandalwood tree is yellow.
+tree | a hemlock is a kind of tree.
+tree | the twig broke off of the tree.
+accomplished | the accomplished writer loves to read.
+accomplished | the accomplished producer is well respected.
+accomplished | the playwright wanted to be accomplished.
+accomplished | the accomplished choreographer waits alone.
+accomplished | the thinker became accomplished later on.
+accomplished | the accomplished publicist has many clients.
+quality | the shopkeeper will guarantee good quality.
+quality | the performance quality sells the shows out.
+quality | he was a stickler for good quality.
+quality | their standard of quality is higher than yours.
+quality | maintaining quality of produce is hard.
+quality | cleanliness is the first decree in quality.
+dinner | her lunch is often leftovers from dinner.
+dinner | he wanted a sandwich for dinner.
+dinner | noodles from dinner were on the table.
+dinner | fondue for dinner is her favorite.
+dinner | i would like to serve dinner now.
+dinner | the dinner was super yummy.
+pain | she could get no relief from the pain.
+pain | the simple irritation became intense pain.
+pain | her migraine caused her pain.
+pain | a nosebleed usually doesn't cause you pain.
+pain | she had some bruising but felt no pain.
+pain | the pain from the stomachache is unbearable.
+fight | the first sword swing began the fight.
+fight | the beat started the fight.
+fight | the goblin fled from the fight.
+fight | the gladiator did not want to fight.
+fight | her bloodline was worth the fight.
+fight | the warlock put up a good fight.
+obligation | her obligation made her liable.
+obligation | the reserved man made privacy an obligation.
+obligation | the contract outlined their obligation.
+obligation | the obligation was harmless.
+obligation | the stockholder has an obligation to stay.
+obligation | his boss refused to disclose the obligation.
+light | the morning light was clear today.
+light | the light from the window hurt her eyes.
+light | there isn't much light during dusk.
+light | the light is so bright that he has to squint.
+light | the storm clouds were clouding the light.
+light | the light reflected off of the window.
+disease | heart disease is common in the u.s.
+disease | type two diabetes is an adult disease.
+disease | the tumor was a symptom of a disease.
+disease | abnormal results show the onset of disease.
+disease | she heard her disease is in remission.
+disease | respiratory disease hinders his breath.
+level | i just measured his level of consciousness.
+level | the salary reflects your level of performance.
+level | the threshold level is unreal.
+level | the level of unemployment has risen.
+level | step it up a level to increase the quota.
+level | he performs at a greater level than you.
+extremely | her written work is extremely powerful.
+extremely | she is impossibly kind and extremely driven.
+extremely | she is extremely and intensely motivated.
+extremely | she is extremely grateful and infinitely proud.
+extremely | steve is exceptionally gifted and extremely humble.
+extremely | sarah unarguably remained extremely competitive.
+reaction | oxygen and metal create a reaction.
+reaction | the chemical reaction is hard to explain.
+reaction | dilute the solutions for a reaction.
+reaction | adding ethanol produces a new reaction.
+reaction | the impurity won't create a reaction.
+reaction | the concentration bears impact on the reaction.
+news | the report presents the news in lay language.
+news | she took a peek at the news before work.
+news | the forum argued about the news.
+news | the archives contain the news since 1950.
+news | the news is broadcasted in the newsroom.
+news | i learn a lot of gossip from the news.
+money | i will pay you money for this.
+money | a good retirement requires saving money.
+money | his paycheck means money for the kids.
+money | she wants to borrow some of his money.
+money | earn some money before you take mine.
+money | i can withdraw some money beforehand.
+engine | the engine is in the front of the car.
+engine | the spare tire is up by the engine.
+engine | a hybrid car has a different engine.
+engine | the jeep's engine gave out at the traffic light.
+engine | engine is another word for motor.
+engine | this car has its engine in the trunk.
+clothes | none of his clothes are made of mesh.
+clothes | sizing a young boy's clothes is difficult.
+clothes | that hat doesn't match his clothes.
+clothes | his clothes are often made of flannel.
+clothes | sports clothes can be made of spandex.
+clothes | his jacket protects his clothes from getting wet.
+material | that material is hard to rip.
+material | covering the statue with any material is hard.
+material | silicone is a bendy kind of material.
+material | the material has an adhesive side.
+material | the material will cling to your hair.
+material | these scientists create an unbreakable material.
+toy | the toy was so cute.
+toy | that doll is the perfect toy for her.
+toy | the toy was jumbo sized.
+toy | the toy is strangely lifelike.
+toy | the water toy was inflatable.
+toy | the dinky toy kept the cat preoccupied.
+plan | the first step of the plan is now complete.
+plan | the plan can result in a transformation.
+plan | the execution of the plan was preemptive.
+plan | the expulsion led to a change of plan.
+plan | the plan is a demonstration of her goodwill.
+plan | follow the essential plan for success.
+table | the table is made of glass.
+table | the chandelier hangs right above the table.
+table | he put the candle on the table.
+table | the porcelain is at the center of the table.
+table | the silverware looks beautiful on the table.
+table | the chrome table had a very modern look.
+mechanism | pull the wire to trigger a mechanism.
+mechanism | the latch was part of a bigger mechanism.
+mechanism | the mechanism had to handle to start it.
+mechanism | the man is proud of his patented mechanism.
+mechanism | the mechanism is designed for that.
+mechanism | he's able to fix the mechanism in no time.
+liar | he's a troublemaker, not a liar.
+liar | the cheater had always been a major liar.
+liar | she is a pessimist and a liar.
+liar | the discovered liar is now an imposter.
+liar | the fast talker and liar both spoke fast.
+liar | the faker became a full-blown liar.
+sexy | many people find the model super sexy.
+sexy | his girlfriend is so sexy.
+sexy | the pervert thought her heartbeat was sexy.
+sexy | the idea of a cheerleader is very sexy.
+sexy | he's a babe, that's how sexy he is.
+sexy | knowing how to seduce someone is sexy.
+sin | she can't forgive him for this sin.
+sin | make sure your wrath doesn't make you sin.
+sin | sin makes a sinner.
+sin | the sin of a firstborn is never forgotten.
+sin | the couple is rejoicing in his sin.
+sin | the extent of the sin was an abomination.
+ship | boat is another name for a small ship.
+ship | the pilot made it onto the ship in time.
+ship | the sail of the ship ripped in the wind.
+ship | the ship was off onto its next expedition.
+ship | the voyage began as the ship left the island.
+ship | the yacht was the owner's favorite ship.
+elegance | her elegance exuded unexpected warmth.
+elegance | the event's formality screams elegance.
+elegance | the home's grandeur signified its elegance.
+elegance | the simplicity of her elegance is incomparable.
+elegance | sensuality and elegance are hard to fake.
+elegance | the elegance of the palace is inherent.
+residence | he took up residence in a nearby town.
+residence | the nearest residence is five miles away.
+residence | the lodge looks like a personal residence.
+residence | the neighborhood has a new residence or two.
+residence | the location of the residence is sublime.
+residence | she could take up residence in the hotel.
+word | she used the correct word on the first try.
+word | the sentence was missing a word.
+word | her nickname is a word used to describe goats.
+word | that word is difficult to pronounce.
+word | the spelling of the word makes no sense.
+word | i can't seem to translate that word.
+team | the team won yet another game.
+team | the team set a new record.
+team | the team was in the lead at halftime.
+team | the entering freshman dominated the team.
+team | the prospect of playing with the team is good.
+team | the team lineup was daunting.
+computer | the system crash destroyed the computer.
+computer | running the application freezes the computer.
+computer | she had this kind of interface on her computer.
+computer | the infrastructure of the computer is weird.
+computer | he was streaming music from his computer.
+computer | his desktop computer is pretty old.
+do | do you often deviate from the rules?
+do | i do not falter when i know what i want.
+do | you do get punished if you misbehave.
+do | do me no wrong and divulge the secret.
+do | i dare you to do that.
+do | you do have the tendency to annoy me.
+smiling | smiling, he stayed staring at the sun.
+smiling | smiling innocently, she took the candy.
+smiling | he was smiling angrily.
+smiling | smiling faintly, she said goodbye.
+smiling | the little boy is smiling obligingly.
+smiling | the woman is smiling wistfully out the window.
+dissolve | inject a solution to dissolve the powder.
+dissolve | disperse the chunks in fluid to dissolve them.
+dissolve | dissolve the substance and it will evaporate.
+dissolve | distill and dissolve the issue immediately.
+dissolve | you can compartmentalize it but never dissolve it.
+dissolve | demystify and dissolve the rumor.
+ignorance | blame his frailty rather than his ignorance.
+ignorance | his striking ignorance upholds his arrogance.
+ignorance | their ignorance stems from their debauchery.
+ignorance | his complete ignorance creates inefficiency.
+ignorance | cut the tomfoolery and fix on your ignorance.
+ignorance | your cockiness and ignorance bother me most.
+code | change the code to make it run faster.
+code | the new solution could save the code.
+code | she added new code to the script.
+code | he can code like a pro but can't type.
+code | the key to good code is simplicity.
+code | modify her code so it can take user inputs.
+argumentatively | he unadvisedly spoke argumentatively.
+argumentatively | the hardhearted woman speaks argumentatively.
+argumentatively | she pitilessly and argumentatively tore him apart.
+argumentatively | the thought is dirtily and argumentatively constructed.
+argumentatively | they spoke precociously and argumentatively.
+argumentatively | her speech began provocatively and argumentatively.
+count | he couldn't count past five.
+count | he will count backwards to one.
+count | she was able to count to a hundred.
+count | i will count by fives to speed it up.
+count | i can count the tally for you.
+count | he will count up to fourteen.
