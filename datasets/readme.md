@@ -8,5 +8,5 @@
 
 **To generate contexts for the stimulus words:**
 ```
-python generate_contexts.py
+python generate_contexts.py --data fMRI180
 ```
