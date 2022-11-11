@@ -1,8 +1,7 @@
-'''
-将fMRI回归到bart embedding空间上去，并进行评估（pairwise correlation & direct decoding)，以衡量对齐后的fMRI向量是否捕捉到了语义特征
+"""
+Compute the retrieval accuracy of cross-modal mapping and representational similarity retrieval
+"""
 
-18折交叉验证:17/1/1
-'''
 import os
 import numpy as np
 import pandas as pd
