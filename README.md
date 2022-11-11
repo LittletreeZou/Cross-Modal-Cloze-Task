@@ -1,6 +1,10 @@
 # Cross-Modal Cloze Task
 
-We realase the datasets for our ACL-2022 Findings's paper: **Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding**. The fMRI60_CMC and fMRI180_CMC datasets can be found at the file folder `datasets`. 
+We realase the datasets for our ACL-2022 Findings's paper: [Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding](https://aclanthology.org/2022.findings-acl.54.pdf). 
+
+
+## Datasets
+The fMRI60_CMC and fMRI180_CMC datasets can be found at the file folder `datasets`. 
 
 **Format of data:**
 
@@ -15,3 +19,12 @@ We realase the datasets for our ACL-2022 Findings's paper: **Cross-Modal Cloze T
 python generate_contexts.py --data fMRI180
 ```
 
+## Code
+Sorry the code is messy. The main steps include:
+
+### Step 1: Voxel selection 
+Use the matlab code provided by 
+
+### Step 2: Cross-modal mapping
+
+### Step 3: Feature fusion and predict
