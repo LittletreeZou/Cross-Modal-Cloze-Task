@@ -43,7 +43,7 @@ def get_mask_predict_for_single_sent(model, tokenizer, token_ids, bertid2localid
 
 def get_mask_predict(model, tokenizer, token_ids, bertid2localid, mask_sents, refs):
     '''
-    获取模型对mask预测的top1, top5, top 10准确率
+    predict the mask tokens and return top1, top5, top10 accuracy and target word probability
     '''
     n_samples = len(refs)
 
@@ -74,7 +74,7 @@ def get_mask_predict(model, tokenizer, token_ids, bertid2localid, mask_sents, re
 def kfold_evaluate(tokenizer, mask_sents, references, sent_folds, data_flag='nc'):
     '''
     :param mask_sents: n_samples
-    :param references: n_samples(按顺序排列）, list of list
+    :param references: n_samples(sort in order）, list of list
     '''
     # tokenizer
     special_ids = [tokenizer.sep_token_id, tokenizer.cls_token_id, tokenizer.mask_token_id,
