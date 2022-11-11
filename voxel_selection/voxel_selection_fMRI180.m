@@ -1,4 +1,4 @@
-% perform voxel seletection for every subject of fMRI180 dataset
+% perform voxel seletection for every subject of fMRI180 dataset, the data and coode are in the same folder
 
 subjects = ["P01", "M02", "M03", "M04", "M05", "M06", "M07", "M08", "M09", "M10", "M13", "M14", "M15", "M16", "M17"];
 %load('glove_v1.mat');
