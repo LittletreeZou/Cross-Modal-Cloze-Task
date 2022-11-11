@@ -21,7 +21,7 @@ python utils/generate_contexts.py --data fMRI180
 
 ## Code
 
-Sorry, the code is messy. The main steps for running the code are as follows:
+The main steps for running the code are as follows:
 
 **Step 1: Voxel selection**
 
