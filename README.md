@@ -1,6 +1,6 @@
 # Cross-Modal Cloze Task
 
-We realase the datasets for our ACL-2022 Findings's paper: [Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding](https://aclanthology.org/2022.findings-acl.54.pdf). 
+We realase the datasets and code for our ACL-2022 Findings's paper: [Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding](https://aclanthology.org/2022.findings-acl.54.pdf). 
 
 
 ## Datasets
