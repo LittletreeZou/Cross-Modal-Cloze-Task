@@ -1,8 +1,3 @@
-'''
-在bert的embedding层进行操作, run on 64 server
-
-transfoermer version: 4.5.0
-'''
 import os
 import numpy as np
 import pandas as pd
@@ -24,7 +19,7 @@ warnings.filterwarnings(action='ignore')
 def get_topk_preds(words, bertvecs, wordvecs, fmri_embed, topk=5, metric='corr'):
     '''
     对每个fmri对齐后的向量，获取与它相关系数top k的词语，及其词向量
-    bertvecs: (n, 768) bert 词向量
+    bertvecs: (n, 768)
     wordvecs: (n, dim)
     fmri_embed: (m, dim)
     '''
@@ -42,9 +37,9 @@ def get_topk_preds(words, bertvecs, wordvecs, fmri_embed, topk=5, metric='corr')
                 sim[j] = corr(fmri, wv)
             else:
                 sim[j] = cosine(fmri, wv)
-        topk_index = np.argsort(-sim)[:topk]  # 从大到小排序
+        topk_index = np.argsort(-sim)[:topk]  # sord in descending order
         topk_words.append([words[k] for k in topk_index])
-        # 取top k词语的简单平均作为词向量
+        # average the topk word embedding 
         topk_wvs[i] = bertvecs[topk_index].mean(axis=0)
     return topk_words, topk_wvs
 
@@ -456,28 +451,9 @@ if __name__ == '__main__':
         accuracy.to_csv(save_path, index=False)
 
 
-
     # analysis
     acc = parallel_analysis(data_flag=DATA_FLAG)
     accuracy = pd.DataFrame(acc)
     #save_path = '/home/sxzou/concept_decoding/data/accuracy_acl/final/cloze/analysis/' + DATA_FLAG + '_alphas.csv'
     save_path = '/home/sxzou/concept_decoding/data/accuracy_acl/final/cloze/analysis/' + DATA_FLAG + '_ks_new.csv'
     accuracy.to_csv(save_path, index=False)
-
-
-    # random feature vector baseline
-    # subject = 'M15'
-    # gussian_noise = True
-    # np.random.seed(123)
-    # if gussian_noise:
-    #     wordfmri = np.random.normal(loc=0, scale=0.02, size=(180, 768))
-    # else:
-    #     data_dir = "/home/sxzou/concept_decoding/data/cs_mapping/ridge/" + subject + "/bert_embed"
-    #     wordfmri = np.load(os.path.join(data_dir, 'predictions.npy'))
-    #     np.random.shuffle(wordfmri)
-    # wordfmri = wordfmri[keep_words_index]
-    # sent_fmri = [wordfmri[sent2word[i]] for i in range(len(keep_concepts))]
-    # acc = kfold_evaluate(mask_sents, reference, sent_fmri, alpha=0.7, split=True)
-    # accuracy = pd.DataFrame(acc)
-    # save_path = os.path.join('/home/sxzou/concept_decoding/data/accuracy/stage2/bert/M15/early_fusion_guissan_noise_alpha0.7.csv')
-    # accuracy.to_csv(save_path, index=False)
